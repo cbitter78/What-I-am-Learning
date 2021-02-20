@@ -46,6 +46,8 @@ or to use the buzz words. I just want a better way.
 
 ## Whats in my queue?
 
+
+- [Team of Teams: New Rules of Engagement for a Complex World](https://www.amazon.com/Team-Teams-Rules-Engagement-Complex-ebook/dp/B00KWG9OF4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1613863743&sr=1-1)
 - [Technology Radar Volume 23](https://www.thoughtworks.com/radar)
 
 ## Want to suggest my next book?
