@@ -17,6 +17,15 @@ Once again it seems that Gene has total visability into where I work.   I see th
 This means that we in IT are not special.  We produce product.  We suffer from the same mistakes over and over.
 By understanding these problems we can avoid them
 
+# Notes
+
+- The First Ideal — Locality and Simplicity  
+- The Second Ideal — Focus, Flow, and Joy 
+- The Third Ideal — Improvement of Daily Work 
+- The Fourth Ideal — Psychological Safety 
+- The Fifth Ideal — Customer Focus
+
+
 
 ## Quotes
 
