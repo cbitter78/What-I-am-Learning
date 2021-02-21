@@ -39,10 +39,21 @@ or to use the buzz words. I just want a better way.
 - [The Phonenix Project](books/the_phonenix_project.md)
 - [The Devops Handbook](books/the_devops_handbook.md)
 - [The Unicorn Project](books/the_unicorn_project.md)
-
-## Other Media
-
 - [This American Life Pod Cast #561 The NUMMI Story](listen/nummi.md)
+
+
+## Development
+
+Books, Blogs and podcasts all developers should consume.  You will notice that lots of this thinking is OLD!
+that is because great software development is not a new idea.
+
+- [Things You Should Never Do](blogs/things_you_should_never_do.md)
+
+
+## Teams
+
+
+
 
 ## Whats in my queue?
 
