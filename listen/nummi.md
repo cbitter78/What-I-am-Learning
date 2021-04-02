@@ -5,7 +5,7 @@
 >cars of much higher quality and much lower cost than GM achieved. Frank Langfitt explains why GM didn't learn 
 >the lessons—until it was too late.
 
-These lissons are revelet to any disiplen that produces any product. Cars, Software, plumbing parts, architects, artists, anything.
+These lessons are relevant to any discipline that produces any product. Cars, Software, plumbing parts, architects, artists, anything.
 This is worth 64 minuets of your time.
 
 [This American Life Pod Cast #561 The NUMMI Story](https://www.thisamericanlife.org/561/nummi-2015).
