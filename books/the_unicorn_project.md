@@ -1,11 +1,11 @@
 # The Unicorn Project
 
 This is the second in a series of DevOps books from [Gene Kim](https://www.amazon.com/Gene-Kim/e/B00AERCJ9E?ref=dbs_t_r_fta_b00aercj9e).
-The first is [T]he Phoenix Project](the_phonenix_project.md) which is set in a company, Parts Unlimited. 
+The first is [The Phoenix Project](the_phonenix_project.md) which is set in a company, Parts Unlimited.
 This book continues the Parts Unlimited story in a different and updated fashion.  Though in the preface it says that
 reading The Phoenix Project is not required I think its worth doing.
 
-Both of these books are roughly based on [The Goal](the_goal.md) which is also a grate read. 
+Both of these books are roughly based on [The Goal](the_goal.md) which is also a grate read.
 
 ## Amazon Link
 
@@ -17,15 +17,15 @@ Once again it seems that Gene has total visibility into where I work.   I see th
 This means that we in IT are not special.  We produce product.  We suffer from the same mistakes over and over.
 By understanding these problems we can avoid them
 
-# Notes
+If you want a good interview with Gene watch [Gene Kim Author of The Unicorn Project on DevOps and Business Innovation](https://www.youtube.com/watch?v=__7d3rnPNqY).
+
+## Notes
 
 - The First Ideal — Locality and Simplicity  
-- The Second Ideal — Focus, Flow, and Joy 
-- The Third Ideal — Improvement of Daily Work 
-- The Fourth Ideal — Psychological Safety 
+- The Second Ideal — Focus, Flow, and Joy
+- The Third Ideal — Improvement of Daily Work
+- The Fourth Ideal — Psychological Safety
 - The Fifth Ideal — Customer Focus
-
-
 
 ## Quotes
 
