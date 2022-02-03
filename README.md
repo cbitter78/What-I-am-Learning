@@ -67,7 +67,7 @@ I would love suggestions!  Just open an issue on this repo.
 
 ## How I work
 
-After 22 years in technology I value work, though it may be misspelled,
+After 23 years in technology I value work, though it may be misspelled,
 or incomplete is more valuable in a git repo then it is on my laptop waiting for me
 to release it to the world.  With that in mind you will see lots of commits here.
 You may see some files that look like I am working on them.  That is because I am.
@@ -94,6 +94,16 @@ If you would like to suggest other ways to contribute to this repo just reach ou
 ## Contact
 
 Find me on [linkedin](https://www.linkedin.com/in/charles-bitter/), Send me a connection request.  In the request reference this repo, then we can chat.
+
+### Grep Words
+
+I will add a list of words to each book, artica, podcast, etc markdown file.  If you want to find somthing just git clone this repo and use grep.  Here is an example.
+
+```shell
+grep -ir [word] ./*
+```
+
+To get a list of books that I think are good for this concept.
 
 ## License
 
