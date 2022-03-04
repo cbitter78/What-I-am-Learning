@@ -51,6 +51,9 @@ I wanted to leave a collection of awesome Berne quotes here so I an referance an
 
 > “I define a leader as anyone who takes responsibility for finding the potential in people and processes, and who has the courage to develop that potential.”  ~Brené Brown
 
+- [Curiosity, Generosity, and the Hedgehog
+with Jim Collins](https://brenebrown.com/podcast/brene-with-jim-collins-on-curiosity-generosity-and-the-hedgehog/) I had to listen to this pod cast with Jim Collins and Berné four (4) times!  I will continue to come back to it.  It is the reason why I read [BE 2.0](../books/be_20.md).
+
 ## Trust
 
 - [Building, Maintaining, and Restoring It with Charles Feltman](https://brenebrown.com/podcast/trust-building-maintaining-and-restoring-it/)  Make sure to also check out his book. [The Thin Book of Trust: An Essential Primer for Building Trust at Work](https://www.amazon.com/Thin-Book-Trust-Essential-Building/dp/0988953862/)
