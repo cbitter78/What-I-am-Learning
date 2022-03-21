@@ -58,6 +58,17 @@ with Jim Collins](https://brenebrown.com/podcast/brene-with-jim-collins-on-curio
 
 - [Building, Maintaining, and Restoring It with Charles Feltman](https://brenebrown.com/podcast/trust-building-maintaining-and-restoring-it/)  Make sure to also check out his book. [The Thin Book of Trust: An Essential Primer for Building Trust at Work](https://www.amazon.com/Thin-Book-Trust-Essential-Building/dp/0988953862/)
 
+## Feedback
+
+I find giving feedback to be somthing I need to think about and take my time doing.  In the past I would find my self avoiding giving feedback because it made me uncomfortable.  I descovered this about my self while listening to these pod casts and reading [Dare to Lead](../books/dare_to_lead.md) in the "Living into Our Values and Feedback" section.
+
+I also love the [Feedback Checklist](https://brenebrown.com/resources/the-engaged-feedback-checklist/) as a reminder of what is in the book.  The checklist does not replace the book.  You should use both.
+
+- [The Hardest Feedback I’ve Ever Received, Part 1 of 2](https://brenebrown.com/podcast/the-hardest-feedback-ive-ever-received-part-1-of-2/)
+- [The Hardest Feedback I’ve Ever Received, Part 2 of 2](https://brenebrown.com/podcast/the-hardest-feedback-ive-ever-received-part-2-of-2/)
+
+
+
 ## Atomic Habits
 
 This is a set of two epesoids on how to build habbits with [James Clear](http://jamesclear.com) about his book Atomic Habits.  Make sure to listen to [part 1](https://brenebrown.com/podcast/atomic-habits-part-1-of-2/) and then [part 2](https://brenebrown.com/podcast/atomic-habits-part-2-of-2/).  I love these quotes from James.
