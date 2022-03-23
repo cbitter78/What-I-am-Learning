@@ -14,6 +14,12 @@ Make sure to check out the pod casts I am addicted to [here](../listen/berne_bro
 
 This is a dence book!  I had to take it a bit at a time.  So much content on every page.  I will have to re-read it a few times.
 
+## Other Content
+
+### Empathy vs Sympathy
+
+This [Video short on Empathy vs Sympathy](https://brenebrown.com/videos/rsa-short-empathy/) is about 3 minutes and really helped me understand how to navagate Empathy.  Also review the Empathy skills and Empathy misses covered in the book in the Empathy section on page 136.
+
 ## Quotes
 
 > - "The courage to be vulnerable is not about winning or losing, it’s about the courage to show up when you can’t predict or control the outcome."
