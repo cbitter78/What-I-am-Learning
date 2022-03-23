@@ -14,11 +14,40 @@ Make sure to check out the pod casts I am addicted to [here](../listen/berne_bro
 
 This is a dence book!  I had to take it a bit at a time.  So much content on every page.  I will have to re-read it a few times.
 
-## Other Content
 
 ### Empathy vs Sympathy
 
 This [Video short on Empathy vs Sympathy](https://brenebrown.com/videos/rsa-short-empathy/) is about 3 minutes and really helped me understand how to navagate Empathy.  Also review the Empathy skills and Empathy misses covered in the book in the Empathy section on page 136.
+
+### Feeback Checklist
+
+This [Check List](https://brenebrown.com/resources/the-engaged-feedback-checklist/) is super helpful for me when prepairing to give feedback.  Make sure to read the Living into Our Values and Feedback seciton in the book on page 198.
+
+### Values
+
+In the book under the Values section about page 200 or so Brené takes us through a process of identifying our core values.  I found that the [Values List](https://brenebrown.com/resources/dare-to-lead-list-of-values/) really helped me to find my 2 core values.  My core values are:
+
+1. Kindness
+2. Trust
+
+My secondary values are:
+
+1. Accountabliity
+2. Authenticity
+3. Balance
+4. Curage
+5. Curiosity
+6. Family
+7. Honesty
+8. Inclusion
+9. Integrity
+10. Leadership
+11. Learning
+12. Patience
+13. Simplicity
+14. Truth
+15. Teaching
+16. Vulnerability
 
 ## Quotes
 
