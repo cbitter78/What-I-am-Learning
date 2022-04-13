@@ -9,7 +9,7 @@ An Essential Primer For Building Trust at Work.
 
 ## Notes
 
-A friend and mentor gave me this book.
+A friend and mentor gave me this book.  I am currently reading it.  Stay tuned for more notes.
 
 
 ## Quotes
