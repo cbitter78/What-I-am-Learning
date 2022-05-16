@@ -1,5 +1,9 @@
 # Start with Why
 
+<a href="https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447">
+<img src="https://images-na.ssl-images-amazon.com/images/I/51BlNddi+NL._SX330_BO1,204,203,200_.jpg" alt="How Great Leaders Inspire Everyone to Take Action" style="height:180px;1px solid black"/>
+</a>
+
 Before I read this book I approached efforts with **What** I will do and **How** I will do it. Until a friend nudged me to read this book, the idea that I need to start with **Why** just did not resonate. After all I am a do'er I have all these things that need doing.  Things are What and How!  Why do them at all? Thats a great question.
 
 I really enjoyed this book.  Its obvious I was doing things backwards, to be fair I do most things backwards as a dyslexic person tends to.
