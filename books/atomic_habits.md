@@ -14,6 +14,7 @@ An Easy & Proven Way to Build Good Habits & Break Bad Ones
 
 - [All Resources](https://jamesclear.com/atomic-habits/resources)
 - [Habits Cheet Sheet](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf)
+- [Atomic Habbits Parenting Bonus Chapter. (Read on youtube)](https://www.youtube.com/watch?v=l6O0yB31HPs)
 
 ### Concepts
 
@@ -40,10 +41,10 @@ As my dad used to say, "You are what you think" When you see yourself as a perso
 
 #### Breaking a bad Habit
 
-#. Make it invisible
-#. Make it unattractive
-#. Make it difficult
-#. Make it unsatisfying
+#. Make it Invisible
+#. Make it Unattractive
+#. Make it Difficult
+#. Make it Unsatisfying
 
 ### Quotes
 
@@ -67,7 +68,53 @@ As my dad used to say, "You are what you think" When you see yourself as a perso
 
 > True behavior change is identity change. You might start a habit because of motivation, but the only reason you’ll stick with one is that it becomes part of your identity.
 
-Clear, James. Atomic Habits (p. 34). Penguin Publishing Group. Kindle Edition. 
+> You get what you repeat. If you want to predict where you’ll end up in life, all you have to do is follow the curve of tiny gains or tiny losses,
+
+> Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.
+
+> Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.
+
+> If you want better results, then forget about setting goals. Focus on your system instead.
+
+> Self-control is a short-term strategy, not a long-term one.
+
+> One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
+
+> We’d rather be wrong with the crowd than be right by ourselves.
+
+> Once we fit in, we start looking for ways to stand out.
+
+> “It is emotion that allows you to mark things as good, bad, or indifferent.” ~Antonio Damasio
+
+> We can find evidence for whatever mind-set we choose.
+
+> When you’re in motion, you’re planning and strategizing and learning. Those are all good things, but they don’t produce a result. Action, on the other hand, is the type of behavior that will deliver an outcome.
+
+> When preparation becomes a form of procrastination, you need to change something.
+
+> Both common sense and scientific evidence agree: repetition is a form of change.
+
+> Law of Least Effort, which states that when deciding between two similar options, people will naturally gravitate toward the option that requires the least amount of work
+
+> Create an environment where doing the right thing is as easy as possible.
+
+> Prime your environment to make future actions easier.
+
+> The point is to master the habit of showing up.
+
+> You have to standardize before you can optimize.
+
+> As a general rule, the more immediate pleasure you get from an action, the more strongly you should question whether it aligns with your long-term goals.*
+
+> The last mile is always the least crowded.
+
+> "When a measure becomes a target, it ceases to be a good measure.” ~Charles Goodhart
+
+> Boiling water will soften a potato but harden an egg. You can’t control whether you’re a potato or an egg, but you can decide to play a game where it’s better to be hard or soft.
+
+> "Men are born soft and supple; dead, they are stiff and hard. Plants are born tender and pliant; dead, they are brittle and dry. Thus whoever is stiff and inflexible is a disciple of death. Whoever is soft and yielding is a disciple of life. The hard and stiff will be broken. The soft and supple will prevail." ~LAO TZU
+
+Clear, James. Atomic Habits. Penguin Publishing Group. Kindle Edition. 
 
 ### Grep Words
 
