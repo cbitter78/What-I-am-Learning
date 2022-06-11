@@ -8,7 +8,7 @@ An Easy & Proven Way to Build Good Habits & Break Bad Ones
 
 ## Notes
 
-**I am currently reading this book, look for this page to be udated as I read and take notes**
+I really enjoyed this book.  It gave me some great ideas on how I can install new habits and remove habits that are not working for me.
 
 ## Resources
 
@@ -34,17 +34,17 @@ As my dad used to say, "You are what you think" When you see yourself as a perso
 
 #### Creating Habits
 
-#. Make It Obvious
-#. Make It Attractive
-#. Make It Easy
-#. Make It Satisfying
+1. Make It Obvious
+1. Make It Attractive
+1. Make It Easy
+1. Make It Satisfying
 
 #### Breaking a bad Habit
 
-#. Make it Invisible
-#. Make it Unattractive
-#. Make it Difficult
-#. Make it Unsatisfying
+1. Make it Invisible
+1. Make it Unattractive
+1. Make it Difficult
+1. Make it Unsatisfying
 
 ### Quotes
 
