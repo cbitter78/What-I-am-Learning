@@ -73,6 +73,7 @@ What happens when you remove queues in favor of a flow or pull (Kanban) based sy
 > "When Somerset County, England, changed their traffic system from lights to no lights, the townsfolk thought it wouldn’t work. “Drivers are not going to dovetail in,” they said. Surprisingly (to most citizens), after the traffic lights were removed, the queues instantly disappeared. It was less congested and easier for pedestrians to cross the street. A drive through town that used to take twenty minutes now took just five minutes. The difference was extraordinary. It took some time for people to adjust. Most people were used to just looking at the lights. Some drivers still assumed the right of way in the time-honored fashion dictated by traffic controls. Reform required a change in culture, and people had to unlearn their bad habits. It was a new way of thinking that required a mind shift, and it took a while for people to catch on, but it resulted in a system that was ultimately safer and faster. The same is true when moving to a Lean kanban flow approach. It’s new and different. People think it won’t work, and there is resistance across teams and departments."
 
 Watch the Experiment Somerset County, England turns off traffic lights surprising results.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lwHfibl1AoI" target="_blank">
  <img src="https://img.youtube.com/vi/lwHfibl1AoI/default.jpg" alt="Experiment Town in England turns off traffic lights surprising results" width="240" height="180" border="10" />
 </a>
