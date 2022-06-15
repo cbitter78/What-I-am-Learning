@@ -67,6 +67,8 @@ See [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
 I think most people know about, or rather think they know what Kanban is.  I suggest you learn about where it came from and how the Signal Card (Kanban) method was created and how it is used outside of Information Technology.  You may find it's much simpler than you think.
 You may also find that it is extremely useful.  To get a better understanding you can read this book and [The Goal](./the_goal.md)
 
+The [Kanban Wiki](https://en.wikipedia.org/wiki/Kanban) is also really good. You should give it a read.
+
 #### Kanban and Traffic?
  
 What happens when you remove queues in favor of a flow or pull (Kanban) based system?  Well.  It works!
