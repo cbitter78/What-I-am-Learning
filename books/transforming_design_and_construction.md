@@ -45,3 +45,8 @@ Read more [Here](https://leanconstruction.org/media/learning_laboratory/new/TDC-
 ### Quotes
 
 > First we teach people how to use Correct Data.  Second we teach people how to use Data Correctly
+
+> Consider using tension-based language in framing the Conditions of Satisfaction. For example: “Needs to impress visitors as they approach and enter the building and yet not overwhelm the other buildings in the neighborhood.”
+
+> Shift the culture from one of “holding people accountable” to a culture of “being accountable.”
+
