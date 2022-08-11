@@ -33,17 +33,17 @@ As my dad used to say, "You are what you think" When you see yourself as a perso
 
 #### Creating Habits
 
-#. Make It Obvious
-#. Make It Attractive
-#. Make It Easy
-#. Make It Satisfying
+1. Make It Obvious
+1. Make It Attractive
+1. Make It Easy
+1. Make It Satisfying
 
 #### Breaking a bad Habit
 
-#. Make it invisible
-#. Make it unattractive
-#. Make it difficult
-#. Make it unsatisfying
+1. Make it invisible
+1. Make it unattractive
+1. Make it difficult
+1. Make it unsatisfying
 
 ### Quotes
 
