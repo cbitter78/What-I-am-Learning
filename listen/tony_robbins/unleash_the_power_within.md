@@ -11,6 +11,28 @@ Personal Coaching to Transform Your Life!
 
 ### Concepts
 
+#### Sensory Acuity
+
+I have always found it funny that once you buy a car you start seeing that car everywhere!  Turns out that's due to a small part of your brain.  The [Reticular Activating System](https://study.com/academy/lesson/reticular-activating-system-definition-function.html) (RAS) helps filter out noise and can help find patterns.  You can feed this system patterns you want to see and then use it to increase your Sensory acuity.  Or in other words.  It can help you pay attention.
+ 
+I have read about RAS hacks in [Atomic Habits](../../books/atomic_habits.md).  In this book James Clear describes [Pointing and Calling](https://en.wikipedia.org/wiki/Pointing_and_calling).
+ 
+> "Sensory acuity is the measure of intelligence" 
+ 
+When we find people who have high Sensory Acuity, we tend to describe them as "knowing their stuff" or "knowledgeable"  When you have more information about something because you pay Intentionally pay attention (Use all the RAS hacks) then you can make highly intelligent choices.
+
+
+
+#### Musts not Shoulds
+
+We can only change when our Shoulds turn into Musts.  We tend to Should all over ourselves and tell ourselves that our Shoulds are Musts.  But they are not.
+
+We should make our Musts before life decieds for us.
+
+#### Its not about discipline
+
+When you must change then it's not about discipline.  Discipline helps but it is not the key.  Change your identity!  This is the difference between "I am trying to quit smoking" and "I am not a smoker". Change your identity to become outstanding!  Once you're there you never need to go back.  This same concept is in [Atomic Habbits](../../books/atomic_habits.md).
+
 #### Six Human Needs 
 
 - Certainty:  Just to operate you need a base level of certainty.
@@ -19,19 +41,15 @@ Personal Coaching to Transform Your Life!
 
 Certainty and Uncertainty forces in constent tension.
 
-
 - Significance:  Meaning, importantannce being unique.
 - Acceptance:  Connection, fitting in, being part of somthing, feeling loved.
 
-People want to be Unique, important and Signifitant and to be Accepted fit in and be part of the group.  Like 
-Certainty and Uncertainty, Significance and Acceptance are also in tension.
-
+People want to be Unique, important, Signifitant, Accepted, fit in and be part of the group.  Like Certainty and Uncertainty, Significance and Acceptance are also in tension.
 
 - Grow:  If you don’t feel like you’re growing you’ll feel like you’re dying inside
-- Contribute beyond yourself in a Meaningful way.
+- Contribute beyond yourself in a Meaningful way: 
 
-Most people meet the first four the last two is what brings success 
-The lack of growth is the key to keeping success without it. everything falls apart 
+Most people meet the first four needs. Howerver, the last two needs are key to success.  The cornerstone need is Groth.  If you are not growing then even if you are meeting the other needs, things tend to fall apart.
 
 
 
@@ -47,3 +65,22 @@ The lack of growth is the key to keeping success without it. everything falls ap
 
 > Clarity is power
 
+> See it as it is but don't see it worse than it is
+
+> “I don’t compete with other people. I compete with what I am capable of” ~Michael Jordan
+
+> Most of us wait for life to give us the have to's
+
+> You don't get depressed. You do depression
+
+> Kill the monister while its little
+
+> If you are going to laugh about this someday.  Why wait?
+
+> Your life will be a direct reflection of the expectations of your peer group
+
+> Whoever you spend time with you will become
+
+> When you control the meaning of things you control the quality of your life
+
+> Questions to shape our entire thinking process
