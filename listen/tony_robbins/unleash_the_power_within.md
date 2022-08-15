@@ -8,19 +8,61 @@ Personal Coaching to Transform Your Life!
 
 ## Notes
 
+I listened to this audiobook twice.  I applied some of what I learned immediately, to surprising positive results.  I will be listening to more Tony Robbins.
 
 ### Concepts
 
-#### Creating Lasting Change
+To improve your life you must:
 
+- Change your standards 
+- Change your limiting beliefs
+- Influenced yourself to take action 
+- Influence others with integrity
 
+#### Standards
 
+If you do "good" you get "poor" results.  You must be Outstanding to get excellent results.  To be Outstanding you must Stand Out from the rest. 
 
-#### Musts not Shoulds
+Change your Standers.  Expect more from yourself than anyone else could possibly expect.  Then show up every day knowing this. 
+
+> “I don’t compete with other people. I compete with what I am capable of” ~Michael Jordan
+
+#### Beliefs
+
+All believers carry consequences.
+All human behavior is belief driven.
+ 
+Belief is just being certain of something. You can change a belief by challenging the certainty that feeds it.  You can reinforce a good belief by adding to the certainty that feeds it.
+ 
+What you perceive is what you believe.  Change the way you perceive things to shape and or change your beliefs.
+
+#### Taking Action (Success Formula)
+
+There are 5 steps:
+ 
+1. Know your Outcome.  Really know it!  Visualize it.  Imagine it.
+1. Know your Why.  Don't fall into the trap of doing something without knowing why. Make sure to read [Start with Why](../../books/start_with_why.md).
+1. Take **MASSIVE** Action!  Don't just do something.  Take Massive action.
+1. Pay attention (Sensory Acuity) and know if what you’re doing is working or not.
+1. Change your approach if it’s not working.  Repeat this step until you get what you want.  Not until you are tired of it.  Until you get what you want.
+
+##### Musts not Shoulds
 
 We can only change when our Shoulds turn into Musts.  We tend to Should all over ourselves and tell ourselves that our Shoulds are Musts.  But they are not.
 
 We should make our Musts before life decieds for us.
+
+##### Changing
+
+1. Change your Beliefs.  Believe that you can change.
+1. Make it a Must!  Know you must change.  If you __should__ change you will not.
+1. Know that you can change.  "I can make this change"  You are the person with the power to make this change.
+1. Gain Leverage.  Most people don't change because they imagine to change is worse than the change itself.   
+   - Associate that not changing will result in **massive immediate unbearable levels of pain**.
+   - Associate changing will result in **massive immediate extraordinary levels of pleasure**.
+1. Interrupt disabling patterns.  When you are doing something counter to the change, interrupt the pattern.  After the pattern is interrupted, create an empowering alternative. Replace the patterns with a positive one.  Then reinforce and reward it until it becomes habit.
+1. Build Momentum.  Build on what is working. You can magnify this process using emotion.  Positive emotions speed you up and negative emotions slow you down.
+
 
 #### Living in the past
 
@@ -87,6 +129,33 @@ Don’t overdo it.  Pick one or two
  
 When Rapport is created between two people who ever is most certainly will influence the other.
 
+#### Learning and Teaching
+
+> Learning is creating a relationship between Known and the UnKnown.
+
+This is how I learn.  Find something I know and relate it to something I am learning.
+
+When learning online and I don't grok, I have to take the time to find something that relates then build from there.
+
+##### Teaching
+
+If you are teaching and you try to build a relationship between a concept the learner does not know then they will not learn the new concept.  When you continue to do this you are a dumb teacher, you do not have a dumb learner.  It is the teacher's responsibility to consistency check with the learner and to find ways to relate concepts.
+
+Tell stories, make analogies, make connections.
+
+#### Values
+
+Values are Emotional states that you believe are most important to feel or avoid.
+ 
+If you’re positive and negative values are in conflict you can’t succeed.  For example if you value professional success but can't stand rejection then you have values that are in conflict.   If you value Safety and Adventure you have conflicting values.  If you value being healthy and eating donuts.  These will show up as self Sabotage.
+
+#### Anchors
+
+An anchor occurs when someone is in an Intense state (Fully associated). If at that time someone does anything unique and Anchor can be created.  You have experienced this when you hear a song and are taken back to a time and or place.  Or when you smell something and you have memories flooding back.  Or hear a voice and suddenly remember something sad.
+ 
+Anchors can be super powers.  They can be bad and good.  You can Intentionally create positive anchors.  (Power anchors).  You can use them to cancel out bad anchors.  You can also use them to help you. 
+ 
+Warning: When canceling an Anchor you need one much more powerful than the anchor you are canceling.  Or it can backfire.
 
 ### Quotes
 
@@ -101,8 +170,6 @@ When Rapport is created between two people who ever is most certainly will influ
 > Clarity is power
 
 > See it as it is but don't see it worse than it is
-
-> “I don’t compete with other people. I compete with what I am capable of” ~Michael Jordan
 
 > Most of us wait for life to give us the have to's
 
