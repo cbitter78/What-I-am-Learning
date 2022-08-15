@@ -11,15 +11,9 @@ Personal Coaching to Transform Your Life!
 
 ### Concepts
 
-#### Sensory Acuity
+#### Creating Lasting Change
 
-I have always found it funny that once you buy a car you start seeing that car everywhere!  Turns out that's due to a small part of your brain.  The [Reticular Activating System](https://study.com/academy/lesson/reticular-activating-system-definition-function.html) (RAS) helps filter out noise and can help find patterns.  You can feed this system patterns you want to see and then use it to increase your Sensory acuity.  Or in other words.  It can help you pay attention.
- 
-I have read about RAS hacks in [Atomic Habits](../../books/atomic_habits.md).  In this book James Clear describes [Pointing and Calling](https://en.wikipedia.org/wiki/Pointing_and_calling).
- 
-> "Sensory acuity is the measure of intelligence" 
- 
-When we find people who have high Sensory Acuity, we tend to describe them as "knowing their stuff" or "knowledgeable"  When you have more information about something because you pay Intentionally pay attention (Use all the RAS hacks) then you can make highly intelligent choices.
+
 
 
 #### Musts not Shoulds
@@ -40,6 +34,16 @@ The past should inform us.  We should learn from the past.  It is not an indicat
 
 When you must change then it's not about discipline.  Discipline helps but it is not the key.  Change your identity!  This is the difference between "I am trying to quit smoking" and "I am not a smoker". Change your identity to become outstanding!  Once you're there you never need to go back.  This same concept is in [Atomic Habbits](../../books/atomic_habits.md).
 
+#### Sensory Acuity
+
+I have always found it funny that once you buy a car you start seeing that car everywhere!  Turns out that's due to a small part of your brain.  The [Reticular Activating System](https://study.com/academy/lesson/reticular-activating-system-definition-function.html) (RAS) helps filter out noise and can help find patterns.  You can feed this system patterns you want to see and then use it to increase your Sensory acuity.  Or in other words.  It can help you pay attention.
+ 
+I have read about RAS hacks in [Atomic Habits](../../books/atomic_habits.md).  In this book James Clear describes [Pointing and Calling](https://en.wikipedia.org/wiki/Pointing_and_calling).
+ 
+> "Sensory acuity is the measure of intelligence" 
+ 
+When we find people who have high Sensory Acuity, we tend to describe them as "knowing their stuff" or "knowledgeable"  When you have more information about something because you pay Intentionally pay attention (Use all the RAS hacks) then you can make highly intelligent choices.
+
 #### Six Human Needs 
 
 - Certainty:  Just to operate you need a base level of certainty.
@@ -58,6 +62,30 @@ People want to be Unique, important, Signifitant, Accepted, fit in and be part o
 
 Most people meet the first four needs. Howerver, the last two needs are key to success.  The cornerstone need is Groth.  If you are not growing then even if you are meeting the other needs, things tend to fall apart.
 
+##### Become a team player
+
+To contribute at an outstanding level you need to become a team player.  Because, people will do more for others they care about how they ever will for themselves.
+ 
+You need to Connect when it’s not easy to connect.  Show appreciation in a Unique way.  Make sure to take care of yourself (the inner team) and Pick a team that will challenge you.
+
+
+#### Rapport
+
+There is someone out there that can help you do anything you want to do.  Why are they going to help you?  Rapport.  You need to learn to build Rapport.
+ 
+Rapport is created by feeling of commonality.  When people have "something in common" then rapport can be built.  It is about paying attention and meeting people on the same level they are communicating so it’s easy for them.
+ 
+You can create a feeling of commonality by:
+ 
+1. Matching and mirroring
+1. Mirroring eye contact.  If they hold eye contact, so should you.  If they dont then dont.
+1. Match pitch and tone of voice
+1. Match Proximity
+1. Match touch patterns.
+ 
+Don’t overdo it.  Pick one or two
+ 
+When Rapport is created between two people who ever is most certainly will influence the other.
 
 
 ### Quotes
@@ -89,5 +117,7 @@ Most people meet the first four needs. Howerver, the last two needs are key to s
 > Whoever you spend time with you will become
 
 > When you control the meaning of things you control the quality of your life
+
+> A strategy is organizing your resources in a way to produce a consistent result every time
 
 > Questions to shape our entire thinking process
