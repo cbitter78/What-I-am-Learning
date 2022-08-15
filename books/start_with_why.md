@@ -19,3 +19,8 @@ The Celery Test. Make sure to pay attion to this chapter. This was extreamly hel
 Its hard to explain Why when it Feels right.  Yes it is!
 
 > “gut decisions” come from. They just feel right. There is no part of the stomach that controls decision-making, it all happens in the limbic brain. It’s not an accident that we use that word “feel” to explain those decisions either. The reason gut decisions feel right is because the part of the brain that controls them also controls our feelings. (Sinek, Simon. Start with Why (p. 57). Penguin Publishing Group. Kindle Edition.)
+
+
+I also suggest:
+
+- [Tony Robbins - Unleash the Power Within](../listen/tony_robbins/unleash_the_power_within.md)

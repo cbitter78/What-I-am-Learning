@@ -10,6 +10,10 @@ An Easy & Proven Way to Build Good Habits & Break Bad Ones
 
 I really enjoyed this book.  It gave me some great ideas on how I can install new habits and remove habits that are not working for me.
 
+I also suggest:
+
+- [Tony Robbins - Unleash the Power Within](../listen/tony_robbins/unleash_the_power_within.md)
+
 ## Resources
 
 - [All Resources](https://jamesclear.com/atomic-habits/resources)
