@@ -22,12 +22,19 @@ I have read about RAS hacks in [Atomic Habits](../../books/atomic_habits.md).  I
 When we find people who have high Sensory Acuity, we tend to describe them as "knowing their stuff" or "knowledgeable"  When you have more information about something because you pay Intentionally pay attention (Use all the RAS hacks) then you can make highly intelligent choices.
 
 
-
 #### Musts not Shoulds
 
 We can only change when our Shoulds turn into Musts.  We tend to Should all over ourselves and tell ourselves that our Shoulds are Musts.  But they are not.
 
 We should make our Musts before life decieds for us.
+
+#### Living in the past
+
+The past does not equal the future. Just because you haven’t done it in the past doesn’t mean you can’t do it now. If you live in the past.  The past will become your future.
+ 
+The [SEC Rule 156](https://www.forbes.com/sites/johnbrown/2016/09/29/past-performance-is-not-indicative-of-future-results/?sh=17db7d523bf5) requires mutual funds to tell investors "Past Performance Is Not Indicative Of Future Results".  We should learn from this.
+ 
+The past should inform us.  We should learn from the past.  It is not an indicator of our future performance.  Your future is your responsibility!  No one else's. Your past is just that.  The past. 
 
 #### Its not about discipline
 
