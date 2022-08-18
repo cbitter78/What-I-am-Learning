@@ -27,6 +27,10 @@ If you want a good interview with Gene watch [Gene Kim Author of The Unicorn Pro
 - The Fourth Ideal — Psychological Safety
 - The Fifth Ideal — Customer Focus
 
+## Horizons
+
+The 3 horizons model is a growth strategy framework by McKinsey that you can use to think about the future of your company. It can help you manage growth in a coordinated way.  Read more [here](https://www.boardofinnovation.com/blog/what-is-the-3-horizons-model-how-can-you-use-it/)
+
 ## Quotes
 
 > agility is never free.
