@@ -17,7 +17,7 @@ How to Take the Lead, Play Bigger, and Multiply Your Impact
 - Do the job that’s needed.  Don't do your job.  Do the job that is needed.  If you dont know what that is.  Figure it out.
 - Step up, then step back.  Step up and lead.  Then Step back and let others lead while you follow.
 - Finish stronger.  Don't just finish.  Finish stronger.
-- Ask and adjust.  Continually change your approach based on good, honest feedback.
+- Ask and adjust.  Continually change your approach based on good, honest feedback.  Circle back to those who gave you good feedback to let them know how their investment is paying off.
 - Make work light.  Create energy, and give energy.  Never be a drain.  Be awesome to work with. 
 - Tap into the unwritten rules.  Read the rules, then pay attention to see what is really going on.
 - Do things without being asked.  What things?  Look for the W.I.N (What's Important Now)
@@ -39,10 +39,21 @@ How to Take the Lead, Play Bigger, and Multiply Your Impact
 - Be aware of the cost of persisting or finishing at all costs.  Don't fall in love with a project.  Make sure to ask and adapt and be willing to let a project go.  Make sure what you are working on is What is Important Now.
 - Vet with intent.  Don't just blow off steam.  Vent a little, but don’t release ownership of the problem.  Ask for support rather than sympathy.
 - Be curious and open.  Never stop learning.  Know when you don't know then go find out.  It's ok to say I don't know.  "Impact Players were able to adapt because they were confident in their ability to learn. But they were also comfortable enough with themselves that the prospect of failure—an inherent risk of learning—didn’t compromise their self-worth. It is a posture of confidence—the belief that I have value that can grow and evolve."
+- Be a learner, not a knower.
 - Have Confidence and humility.  Confidence you will overcome, humility that you don't yet know how.
 - Be coachable and ask for guidance.  Many people say they want feedback, few know how to take feedback. Be the person who values feedback for the gift that it is and be coachable.
 - Think before you act. Take a minute to reset so you can see clearly.
 - Never overreact or overcorrect.  Much like driving a car on the highway you don't want to overcorrect.
+- Leverage your natural genius (what you are naturally good at) but don't just play to your strengths.  While leveraging what you know, challenge yourself and grow. "It is certainly more pleasant to wade in a stream of affirming feedback than it is to trudge through criticism and correction. But when we follow the applause, we lose touch with reality and avoid situations that expose our weaknesses.....Our most valuable contribution will come as we assume that real strength is the ability to adapt and adjust."
+- Be low maintenance and make work light. Work is hard enough by itself.  Bring levity.  Do this with decorom and class.
+- Play your chips wisely. Before contributing ask yourself is you want to play your chips here.  Imagine you have a limited supply of chips.  This same advise is given in in [Dare to lead](./dare_to_lead.md) and the [Helping Book](./the_helping_book.md)
+- Be unreasonable grateful! But keep it authentic!  If you’re not grateful don’t fake it but **BE!** grateful.  Gratitude is a two-way street.  It helps others and helps you.  Lean into this and be grateful but make it real.  Remember "Your candle loses nothing when it lights another." ~Hill Holliday
+Remember "Your candle loses nothing when it lights another." ~Hill Holliday
+- Get perspective!  "To increase our impact, we must know what is valuable to others. We must train our minds to view situations through others’ eyes. We must see through the eyes of those who benefit from our work."  We need to break out of our own perspective and gain the perspective of others. 
+
+
+
+
  
 
 #### The Performance Guarantee 
@@ -54,6 +65,16 @@ Others can count on Impact Players to:
 1. Be easy to work with, likable, approachable, and positive 
 1. Learn quickly Apply their strengths to the work at hand
 
+
+#### Efficiency Factor 
+
+An Impact Player can be counted on to almost never: 
+1. Get involved in internal politics
+1. Cause drama or contention with colleagues 
+1. Waste time Complain, blame others, and hold on to negativity
+1. Show off, seek credit, or compete with teammates 
+
+This low-friction approach prevents Impact Players from becoming stuck and enables their leaders to move faster and more freely.
 
 
 ## Quotes
@@ -135,3 +156,30 @@ Others can count on Impact Players to:
 > With a growth mindset, we see ourselves as capable of learning and changing. We interpret feedback as vital information we need to make adjustments. Challenges and obstacles serve as the training grounds for growth and feedback.
 
 > “Reset walks.” When we reset, we find our right mind. We can’t change course until we can see clearly.
+
+> Tendency to avoid uncomfortable situations is a reflection of a fixed mindset,
+
+> When we hold a fixed mindset, the goal becomes looking smart and doing our best never to look dumb.
+
+> As we grow, we often need to slow down, catch our breath, and take account of where we’ve been so we can progress.
+
+> Sometimes the smallest of adjustment is all we need to stay on course. Instead of pursuing big changes, master the art of small change. Invite input and seek correction. Ask for guidance and take action, then occasionally double back to let your guide know that with their help, you found your way. It will remind them that they’ve made a good investment and that their seeds of wisdom fell on fertile soil.
+
+> Being seen as low maintenance is as vital as being considered high performance.
+
+> He understands that by communicating briefly and clearly, his ideas have greater reach and value to others.
+
+> Benefit mindset—an extension of a growth mindset in which we not only seek to grow and fulfill our potential but do it in a way that serves the well-being of all.
+
+> Bring Levity If the workplace were a theater, Impact Players would be all comedy, no drama. In tense situations, they bring much-needed levity, making hard work fun and lighthearted and eschewing the political game playing that sucks the life out of our work lives.
+
+> Gratitude reduces anxiety and depression, strengthens the immune system, lowers blood pressure, and creates higher levels of happiness.
+
+> "Your candle loses nothing when it lights another." ~Hill Holliday
+
+> When we consider our colleagues as humans, not resources, we form connections that enable others to carry their burdens with greater ease. We also create community and build the collective strength to endure hardship
+
+> The secret to being heard is contributing intentionally and knowing when to play big and when to play small. If you want to maximize your impact, dispense your opinions in small but intense doses
+
+>  “What you see depends not only on what you look at, but also, on where you look from.” ~James Deacon
+

@@ -95,16 +95,6 @@ If you would like to suggest other ways to contribute to this repo just reach ou
 
 Find me on [linkedin](https://www.linkedin.com/in/charles-bitter/), Send me a connection request.  In the request reference this repo, then we can chat.
 
-### Grep Words
-
-I will add a list of words to each book, artica, podcast, etc markdown file.  If you want to find somthing just git clone this repo and use grep.  Here is an example.
-
-```shell
-grep -ir [word] ./*
-```
-
-To get a list of books that I think are good for this concept.
-
 ## License
 
 This repo is Licensed under [MIT](LICENSE).  Feel free to use my notes.
