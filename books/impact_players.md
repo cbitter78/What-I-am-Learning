@@ -49,12 +49,19 @@ How to Take the Lead, Play Bigger, and Multiply Your Impact
 - Play your chips wisely. Before contributing ask yourself is you want to play your chips here.  Imagine you have a limited supply of chips.  This same advise is given in in [Dare to lead](./dare_to_lead.md) and the [Helping Book](./the_helping_book.md)
 - Be unreasonable grateful! But keep it authentic!  If you’re not grateful don’t fake it but **BE!** grateful.  Gratitude is a two-way street.  It helps others and helps you.  Lean into this and be grateful but make it real.  Remember "Your candle loses nothing when it lights another." ~Hill Holliday
 Remember "Your candle loses nothing when it lights another." ~Hill Holliday
-- Get perspective!  "To increase our impact, we must know what is valuable to others. We must train our minds to view situations through others’ eyes. We must see through the eyes of those who benefit from our work."  We need to break out of our own perspective and gain the perspective of others. 
-
-
-
-
+- Get perspective!  "To increase our impact, we must know what is valuable to others. We must train our minds to view situations through others’ eyes. We must see through the eyes of those who benefit from our work."  We need to break out of our own perspective and gain the perspective of others. “Some things must actually be personally experienced to fully comprehend the depth.”
+- Elevate Unseen Players.  Find a way to show the good work of others.  Elevate them, mentor and teach.
  
+ 
+### Framework
+ 
+The [Impact Players Framework](https://impactplayersbook.com/wp-content/uploads/2021/10/impact-players-framework.pdf) is a good reference.  Pay attention to the decoys.
+ 
+
+### Framework
+
+The [Impact Players Framework](https://impactplayersbook.com/wp-content/uploads/2021/10/impact-players-framework.pdf) is a good referance.  Pay attion to the decoys.
+
 
 #### The Performance Guarantee 
 
@@ -183,3 +190,19 @@ This low-friction approach prevents Impact Players from becoming stuck and enabl
 
 >  “What you see depends not only on what you look at, but also, on where you look from.” ~James Deacon
 
+> When we change our lens from threat to opportunity we can turn risky situations into rewarding experiences.
+
+> Be creators of value, not just critics of the status quo
+
+> Promote the work, not yourself. Separating your sense of self from your work makes it more comfortable to share (and hear) news of success.
+
+> If you want the people on your team to venture beyond artificial job boundaries and do the job that’s needed, help them see what’s most important at any given time.
+
+> "The single best predictor of behavior is ease, more than price, or quality, or comfort, or desire, or satisfaction. Overall, the easier something is to do, the more likely people are to do it." ~Zoe Chance
+
+> Being all in is not the same as being exhausted—tired and depleted of energy, resources, and strength.
+
+
+ImpactPlayersBook.com
+
+Wiseman, Liz. Impact Players (p. 255). HarperCollins. Kindle Edition. 
