@@ -12,7 +12,7 @@ Make sure to check out the pod casts I am addicted to [here](../listen/berne_bro
 
 ## Notes
 
-This is a dence book!  I had to take it a bit at a time.  So much content on every page.  I will have to re-read it a few times.
+This is a dence book!  I had to take it a bit at a time.  So much content on every page.  I read it twice.
 
 
 ### Empathy vs Sympathy
@@ -30,7 +30,7 @@ In the book under the Values section about page 200 or so Brené takes us throug
 1. Kindness
 2. Trust
 
-My secondary values are:
+These core values reinforced my secondary values, which are:
 
 1. Accountabliity
 2. Authenticity
