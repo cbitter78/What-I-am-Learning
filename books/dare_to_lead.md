@@ -65,6 +65,7 @@ These core values reinforced my secondary values, which are:
 15. Teaching
 16. Vulnerability
 
+
 ## Quotes
 
 > "The courage to be vulnerable is not about winning or losing, it’s about the courage to show up when you can’t predict or control the outcome."
