@@ -26,6 +26,8 @@ I am thinking and acting to see if I am in Growth or Fixed.   If I am displaying
 
 ### Growth 
 
+
+
 Actions, thoughts and behavors of Growth:
 
 - Will I make a mistake and what will I learn from it that can make me better?
@@ -33,6 +35,8 @@ Actions, thoughts and behavors of Growth:
 - I wonder why that happend? 
 - What did I learn?
 - I wonder why that person is acting like that?
+- No matter how much intelligence you have, you can always change it quite a bit.
+- You can always substantially change how intelligent you are.
 
 ### Fixed
 
@@ -40,15 +44,19 @@ Actions, thoughts and behavors of Fixed:
 
 - Will I fail and how will that make me look?
 - I cant believe this is happening to me!?
-- **I know exactly how that works**
 - I will never try that again
-- They dont like me
+- They dont like me.
 - It is not worth the effort to try
+- Your intelligence is something very basic about you that you can’t change very much.
+- You can learn new things, but you can’t really change how intelligent you are. 
 
 ## Quotes
 
 > It’s not nature or nurture, genes or environment. From conception on, there’s a constant give-and-take between the two. In fact, as Gilbert Gottlieb, an eminent neuroscientist, put it, not only do genes and environment cooperate as we develop, but genes require input from the environment to work properly.
 
 > Why waste time proving over and over how great you are, when you could be getting better? Why hide deficiencies instead of overcoming them? Why look for friends or partners who will just shore up your self-esteem instead of ones who will also challenge you to grow? And why seek out the tried and true, instead of experiences that will stretch you? The passion for stretching yourself and sticking to it, even (or especially) when it’s not going well, is the hallmark of the growth mindset. This is the mindset that allows people to thrive during some of the most challenging times in their lives.
+
+> Mindsets change what people strive for and what they see as success. How they change the definition, significance, and impact of failure. And how they change the deepest meaning of effort.
+
 
 Dweck, Carol S.. Mindset (p. 7). Random House Publishing Group. Kindle Edition. 
