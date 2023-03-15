@@ -14,6 +14,8 @@ The story you tell yourself about your position and situation can become a self-
 
 > "The view you adopt for yourself profoundly affects the way you lead your life." ~Carol Dweck
 
+Make sure you read the entire book.  The last 40% of this book is amazing!  You cant just skip there.  You have to read your way to it.
+
 
 ## Notes
 
@@ -23,6 +25,8 @@ avoid fixed mindset behavior and replace it with growth. "If you don’t feel li
 You are never just one thing.  To improve or build a skill you work at it every day.  You can't just say I am going to do this growth mindset thing and
 be done.  You have to work at it.  My method is to understand with behaviors and thinking look like for each mindset, then pay attention to the way
 I am thinking and acting to see if I am in Growth or Fixed.   If I am displaying Fixed mindset behaviors I need to take action to adjust.
+
+> Although for simplicity I’ve talked as though some people have a growth mindset and some people have a fixed mindset, in truth we’re all a mixture of the two. There’s no point denying it. Sometimes we’re in one mindset and sometimes we’re in the other. Our task then becomes to understand what triggers our fixed mindset. What are the events or situations that take us to a place where we feel our (or other people’s) abilities are fixed? What are the events or situations that take us to a place of judgment rather than to a place of development?
 
 ### Growth 
 
@@ -55,6 +59,8 @@ Actions, thoughts and behavors of Fixed:
 > In the fixed mindset, however, the loss of one’s self to failure can be a permanent, haunting trauma.
 
 > The idea of trying and still failing—of leaving yourself without excuses—is the worst fear within the fixed mindset,
+
+> Many people with the fixed mindset think the world needs to change, not them. They feel entitled to something better—a better job, house, or spouse. The world should recognize their special qualities and treat them accordingly.
 
 ## The Danger Of Praise And Positive Labels
 
@@ -89,5 +95,14 @@ We also need to avoid labels like "Gifted and Talented"  WOW!  Labeling a subset
 
 > Growth mindset lets people—even those who are targets of negative labels—use and develop their minds fully. Their heads are not filled with limiting thoughts, a fragile sense of belonging, and a belief that other people can define them.
 
+> Those with the growth mindset found success in doing their best, in learning and improving. And this is exactly what we find in the champions.
 
-Dweck, Carol S.. Mindset (p. 7). Random House Publishing Group. Kindle Edition. 
+> Those with the growth mindset found setbacks motivating. They’re informative. They’re a wake-up call.
+
+> Every word and action can send a message. It tells children—or students, or athletes—how to think about themselves. It can be a fixed-mindset message that says: You have permanent traits and I’m judging them. Or it can be a growth-mindset message that says: You are a developing person and I am committed to your development.
+
+> Parents think they can hand children permanent confidence—like a gift—by praising their brains and talent. It doesn’t work, and in fact has the opposite effect. It makes children doubt themselves as soon as anything is hard or anything goes wrong. If parents want to give their children a gift, the best thing they can do is to teach their children to love challenges, be intrigued by mistakes, enjoy effort, seek new strategies, and keep on learning. That way, their children don’t have to be slaves of praise. They will have a lifelong way to build and repair their own confidence.
+
+> Remember that praising children’s intelligence or talent, tempting as it is, sends a fixed-mindset message. It makes their confidence and motivation more fragile. Instead, try to focus on the processes they used—their strategies, effort, or choices.
+
+Dweck, Carol S.. Mindset. Random House Publishing Group. Kindle Edition. 
