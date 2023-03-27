@@ -49,7 +49,22 @@ These are sometimes named architecture characteristics, or "ilities" after the s
 - Redesign: Very few designs are unique.  It's been done before.  Do not reinvent the wheel.  Go look at existing patterns and reuse them.
 - Tangibility:It is hard to communicate a design in code alone.  It's hard to understand a design verbally.  Or even in a 300 page document.  Make your design Human friendly.  Make it Tangible.  Make it relatable. Draw it, Create prototypes, Help people experience quality attributes and structures.  Create models, examples,  Use metaphors, Act out the control flow. Anything to help other humans understand the design!
 
+### Desing Mindset
 
+Use these mindsets to explore the same space to gain different perspectives and discover different attributes.
+
+- Understand: Stakeholders, Requirements, Architecturally Significant Requirements, and Quality Attributes
+- Explore:  Not just whiteboards and sticky notes.  
+- Make: Not just diagrams though they are important.  Do whatever you can to make ideas tangible.
+- Evaluate: Test, run experiments, and walk through one or more parts of the architecture with different scenarios. 
+
+> There are four design mindsets: understand, explore, make, and evaluate. Each design mindset comes with a set of practices. To design the architecture, we’ll choose a mindset, pick a practice in that mindset, apply the practice to learn something new about the architecture, and repeat.
+
+> Inspect anything we make and decide whether that artifact is serving our need.
+
+> Using design mindsets requires a process with a tight feedback loop so we can quickly move from one mindset to the next.
+
+> Awareness of the four design mindsets gives us new techniques for getting out of a rut. If you get stuck, choose a new mindset to get yourself unstuck.
 
 
 ## Quotes
@@ -78,6 +93,5 @@ These are sometimes named architecture characteristics, or "ilities" after the s
 
 > Ideas are great but if you can’t transfer them from your brain into someone else’s brain, then your ideas are useless. Making ideas real gives us a way to share them but also provides an opportunity for testing an idea.
 
-Keeling, Michael. Design It!: From Programmer to Software Architect (The Pragmatic Programmers) (p. 41). Pragmatic Bookshelf. Kindle Edition. 
 
 Keeling, Michael. Design It!: From Programmer to Software Architect (The Pragmatic Programmers) Pragmatic Bookshelf. Kindle Edition. 
