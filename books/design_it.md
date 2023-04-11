@@ -21,14 +21,9 @@ All software needs Architecture.  Not all software needs someone with the title.
 
 > Always remember, software architect is a way of thinking, not just a role on the team. When you’re wearing your programmer hat, you’ll make dozens of design decisions daily. Some of these decisions have architectural significance. Anyone who makes a decision that influences the structures of the software system becomes the architect pro tempore.
 
-
-
-
-
-
 ### Software Architecture
 
-> A system’s software architecture is the set of significant design decisions about how the software is organized to promote desired quality attributes and other properties.
+> A system’s software architecture is the set of significant design decisions about how the software is organized to promote desired quality attributes and other properties.  These are also called [Architecturally Significant Requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) or ASRs.  
 
 Significant Design Decision?
 
@@ -38,13 +33,38 @@ Significant Design Decision?
 - Affect the schedule
 - Affects many people or forces other software systems to change
 
+I found this [ASR test critera](https://medium.com/olzzio/architectural-significance-test-9ff17a9b4490) to be helpful
+
 #### Quality Attributes
 
- These are sometimes named architecture characteristics, or "ilities" after the suffix many of the words share.    They are a subset of [Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement).  In most cases Quality Attributes used to measure a system.   Such as reliability, testability, observability, etc..  This is a [list](https://en.wikipedia.org/wiki/List_of_system_quality_attributes).
+These are sometimes named architecture characteristics, or "ilities" after the suffix many of the words share. They are a subset of [Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement).  In most cases Quality Attributes are used to mesure a system. Such as reliability, testability, observability, etc..  This is a [list](https://en.wikipedia.org/wiki/List_of_system_quality_attributes).
 
 > A quality attribute is any externally visible characteristic by which stakeholders judge a software system’s goodness. Some examples include scalability, availability, maintainability, and testability. You experience quality attributes when you interact with the software.
 
-They are usually [architecturally significant requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements)
+
+### HART
+
+- Human: All design is social in nature.  Humans, not one person create good design.
+- Ambiguity: Focus on [Architecturally Significant Requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements) and or high-priority [Quality Attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes) and leave the rest of the design ambiguous and open for downstream designers to determine.
+- Redesign: Very few designs are unique.  It's been done before.  Do not reinvent the wheel.  Go look at existing patterns and reuse them.
+- Tangibility:It is hard to communicate a design in code alone.  It's hard to understand a design verbally.  Or even in a 300 page document.  Make your design Human friendly.  Make it Tangible.  Make it relatable. Draw it, Create prototypes, Help people experience quality attributes and structures.  Create models, examples,  Use metaphors, Act out the control flow. Anything to help other humans understand the design!
+
+### Desing Mindset
+
+Use these mindsets to explore the same space to gain different perspectives and discover different attributes.
+
+- Understand: Stakeholders, Requirements, Architecturally Significant Requirements, and Quality Attributes
+- Explore:  Not just whiteboards and sticky notes.  
+- Make: Not just diagrams though they are important.  Do whatever you can to make ideas tangible.
+- Evaluate: Test, run experiments, and walk through one or more parts of the architecture with different scenarios. 
+
+> There are four design mindsets: understand, explore, make, and evaluate. Each design mindset comes with a set of practices. To design the architecture, we’ll choose a mindset, pick a practice in that mindset, apply the practice to learn something new about the architecture, and repeat.
+
+> Inspect anything we make and decide whether that artifact is serving our need.
+
+> Using design mindsets requires a process with a tight feedback loop so we can quickly move from one mindset to the next.
+
+> Awareness of the four design mindsets gives us new techniques for getting out of a rut. If you get stuck, choose a new mindset to get yourself unstuck.
 
 
 ## Quotes
@@ -61,15 +81,17 @@ They are usually [architecturally significant requirements](https://en.wikipedia
 
 > Focusing on the people affected by your design decisions helps you concentrate on the exact problems that must be solved. It also grounds your solution exploration by reminding you that your purpose is to build software that helps people.
 
-
 > One of the least effective ways to design software architecture is to ignore the software systems that came before us.
 
 > There are many ways to make architecture tangible. Draw it. Make it come alive in the code you write. Build prototypes that let people experience structures and quality attributes. Create simple models that show how some part of the architecture works. Create relatable metaphors. Act out parts of the control flow of the system.
 
-
-
-
 > A minimalist architecture only shows how high-priority quality attributes are achieved and reduces risks for promoting those quality attributes. All other design decisions are left open for downstream designers to determine.
+
+> A software system is never finished; it is only released.
+
+> The understand mindset is as much about requirements as it is empathy. To understand the problem, we must learn about the people who will be touched by our system and what they need.
+
+> Ideas are great but if you can’t transfer them from your brain into someone else’s brain, then your ideas are useless. Making ideas real gives us a way to share them but also provides an opportunity for testing an idea.
 
 
 Keeling, Michael. Design It!: From Programmer to Software Architect (The Pragmatic Programmers) Pragmatic Bookshelf. Kindle Edition. 
