@@ -40,11 +40,11 @@ Significant Design Decision?
 
 #### Quality Attributes
 
- These are sometimes named architecture characteristics, or "ilities" after the suffix many of the words share.    They are a subset of [Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement).  In most cases Quality Attributes used to mesure a system.   Such as reliability, testability, observability, etc..  This is a [list](https://en.wikipedia.org/wiki/List_of_system_quality_attributes).
+ These are sometimes named architecture characteristics, or "ilities" after the suffix many of the words share.    They are a subset of [Non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement).  In most cases Quality Attributes used to measure a system.   Such as reliability, testability, observability, etc..  This is a [list](https://en.wikipedia.org/wiki/List_of_system_quality_attributes).
 
 > A quality attribute is any externally visible characteristic by which stakeholders judge a software system’s goodness. Some examples include scalability, availability, maintainability, and testability. You experience quality attributes when you interact with the software.
 
-
+They are usually [architecturally significant requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements)
 
 
 ## Quotes
