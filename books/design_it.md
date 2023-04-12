@@ -66,6 +66,15 @@ Use these mindsets to explore the same space to gain different perspectives and 
 
 > Awareness of the four design mindsets gives us new techniques for getting out of a rut. If you get stuck, choose a new mindset to get yourself unstuck.
 
+### Risk
+
+- Let Risk be your guide
+    > We can use that slight sinking feeling in our guts to our advantage. Risk is an excellent indicator of what might prevent us from succeeding. To harness the power of our guts, write down all the things that worry you about the software system. Next, prioritize the items on your list so that the things likely to cause the most trouble are highest on the list. Finally, pick one of the top things you’re worried about and choose a design mindset to reduce the risk.
+- Identify Conditions and Consequences
+    > The condition is a fact about the world that is currently true. The consequence is something bad that might happen in the future as a direct result of the condition.
+
+> Risks are the GPS for our design process. They tell us where we are, where we’re going, and how much we have left to design.
+
 
 ## Quotes
 
@@ -92,6 +101,8 @@ Use these mindsets to explore the same space to gain different perspectives and 
 > The understand mindset is as much about requirements as it is empathy. To understand the problem, we must learn about the people who will be touched by our system and what they need.
 
 > Ideas are great but if you can’t transfer them from your brain into someone else’s brain, then your ideas are useless. Making ideas real gives us a way to share them but also provides an opportunity for testing an idea.
+
+> Instead of rationally seeking an optimal design, our goal is to find an architecture that satisfices. A satisficing design is both satisfactory and sufficient—good enough—for our needs.
 
 
 Keeling, Michael. Design It!: From Programmer to Software Architect (The Pragmatic Programmers) Pragmatic Bookshelf. Kindle Edition. 
