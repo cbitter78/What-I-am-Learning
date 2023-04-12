@@ -10,7 +10,18 @@
 
 Be on the lookout for these villains.
 
-- First: Narrow Framing, which is the tendency to define our choices too narrowly
+- First: Narrow Framing, which is the tendency to define our choices too narrowly.
+    Look for:
+    - Whether **or** not
+    - Sham options
+    
+    Defend with:
+    - And not Or
+    - Multi-Track.  Consider multipal options at the same time.  Not linearly.  Not too many.  Avoid the choice paradox. Less than 5 is a good rule of thumb.
+    - Expand your real options
+    - State Opertunity Costs "Do you want the 1000.00 stero or the 700.00 one and 300.00 in new music?".  Say it out loud.
+    - Vanishing Options Test.  "Vanishing Options Test, which you can adapt to your situation: You cannot choose any of the current options you’re considering. What else could you do?"
+    - Take an outside perspective
 - Second: Confirmation Bias, Our normal habit in life is to develop a quick belief about a situation and then seek out information that bolsters our belief
 - Third: Short-Term Emotion, We can get caught up in the History, Feelings or how we feel at the time
 - Forth: overconfidence, When we are overconfident we tend to be wrong. 
@@ -35,7 +46,14 @@ Be warned.  Our biases gets in the way.  The second villian shows up here all th
 
 > Research in psychology over the last 40 years has identified a set of biases in our thinking that **doom the pros-and-cons model of decision making**. If we aspire to make better choices, then we must learn how these biases work and how to fight them (with something more potent than a list of pros and cons).
 
-# WRAP process
+### Mindsets
+
+- Prevention: Avoiding negative outcomes. 
+- Promotion: Pursuing positive outcomes.
+
+Toggle between the prevention and promotion mindsets.  And not Or.
+
+### WRAP process
 
 - Widen Your Options
 - Reality-Test Your Assumptions
@@ -50,6 +68,20 @@ Be warned.  Our biases gets in the way.  The second villian shows up here all th
 > Why a process? Because understanding our shortcomings is not enough to fix them.
 
 > "We may spend 95% of our time going straight, but it’s the turns that determine where we end up." ~ Roy Baumeister
+
+> Organizations seem to be using the same decision process as a hormone-crazed teenager.
+
+> What if we started every decision by asking some simple questions: What are we giving up by making this choice? What else could we do with the same time and money?
+
+> One rule of thumb is to keep searching for options until you fall in love at least twice.
+
+> WHEN LIFE OFFERS US a “this or that” choice, we should have the gall to ask whether the right answer might be “both.”
+
+Heath, Chip; Heath, Dan. Decisive (p. 76). Crown. Kindle Edition. 
+
+Heath, Chip; Heath, Dan. Decisive (p. 66). Crown. Kindle Edition. 
+
+Heath, Chip; Heath, Dan. Decisive (p. 54). Crown. Kindle Edition. 
 
 Heath, Chip; Heath, Dan. Decisive (p. 35). Crown. Kindle Edition. 
 
