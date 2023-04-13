@@ -14,14 +14,8 @@ Be on the lookout for these villains.
     Look for:
     - Whether **or** not
     - Sham options
-    
     Defend with:
-    - And not Or
-    - Multi-Track.  Consider multipal options at the same time.  Not linearly.  Not too many.  Avoid the choice paradox. Less than 5 is a good rule of thumb.
-    - Expand your real options
-    - State Opertunity Costs "Do you want the 1000.00 stero or the 700.00 one and 300.00 in new music?".  Say it out loud.
-    - Vanishing Options Test.  "Vanishing Options Test, which you can adapt to your situation: You cannot choose any of the current options you’re considering. What else could you do?"
-    - Take an outside perspective
+    - [Widen Your Options](#widen-your-options)
 - Second: Confirmation Bias, Our normal habit in life is to develop a quick belief about a situation and then seek out information that bolsters our belief
 - Third: Short-Term Emotion, We can get caught up in the History, Feelings or how we feel at the time
 - Forth: overconfidence, When we are overconfident we tend to be wrong. 
@@ -55,10 +49,33 @@ Toggle between the prevention and promotion mindsets.  And not Or.
 
 ### WRAP process
 
-- Widen Your Options
-- Reality-Test Your Assumptions
-- Attain Distance Before Deciding
-- Prepare to Be Wrong
+- **W**iden Your Options 
+- **R**eality-Test Your Assumptions 
+- **A**ttain Distance Before Deciding 
+- **P**repare to Be Wrong
+
+In no particular order.  
+
+#### Widen Your Options
+ - And not Or
+- Multi-Track.  Consider multipal options at the same time.  Not linearly.  Not too many.  Avoid the choice paradox. Less than 5 is a good rule of thumb.
+- Expand your real options
+- State Opertunity Costs "Do you want the 1000.00 stero or the 700.00 one and 300.00 in new music?".  Say it out loud.
+- Vanishing Options Test.  "Vanishing Options Test, which you can adapt to your situation: You cannot choose any of the current options you’re considering. What else could you do?"
+- Take an outside perspective
+- Look to see how the problem has already been sloved.  Ladder Up.  Look for local analogies, then regional analogies.  Dont go to far up the Ladder.
+- Use or create playlits that help you expand your focus.
+
+#### Reality-Test Your Assumptions
+- Consider the Opposite
+- Decenting views
+    > CEO and chairman of General Motors, once interrupted a committee meeting with a question: “Gentlemen, I take it we are all in complete agreement on the decision here?” All the committee members nodded. “Then,” Sloan said, “I propose we postpone further discussion of this matter until our next meeting to give ourselves time to develop disagreement and perhaps gain some understanding of what this decision is about.”
+
+Heath, Chip; Heath, Dan. Decisive (pp. 107-108). Crown. Kindle Edition. 
+
+#### Attain Distance Before Deciding
+
+#### Prepare to Be Wrong
 
 
 ## Quotes
@@ -77,14 +94,12 @@ Toggle between the prevention and promotion mindsets.  And not Or.
 
 > WHEN LIFE OFFERS US a “this or that” choice, we should have the gall to ask whether the right answer might be “both.”
 
-Heath, Chip; Heath, Dan. Decisive (p. 76). Crown. Kindle Edition. 
+> Warren Buffett said, “In the past, I’ve observed that many acquisition-hungry managers were apparently mesmerized by their childhood reading of the story about the frog-kissing princess. Remembering her success, they pay dearly for the right to kiss corporate toads, expecting wondrous transfigurations.” Unfortunately, said Buffett, “We’ve observed many kisses but very few miracles.”
 
-Heath, Chip; Heath, Dan. Decisive (p. 66). Crown. Kindle Edition. 
 
-Heath, Chip; Heath, Dan. Decisive (p. 54). Crown. Kindle Edition. 
-
-Heath, Chip; Heath, Dan. Decisive (p. 35). Crown. Kindle Edition. 
+Heath, Chip; Heath, Dan. Decisive. Crown. Kindle Edition. 
 
 ## Related Books
 
+- [Switch](./switch.md)
 - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG)

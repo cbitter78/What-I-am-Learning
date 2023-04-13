@@ -20,3 +20,7 @@ Change can be like an Elephant it's hard to get them to move, and to move in the
 
 
 Keep in mind. Large change is hard.  Shrink the change, keep it simple. Build on small simple things to effect large change.
+
+## Related Books
+
+- [Decisive: How to Make Better Choices in Life and Work](./decisive_how_to_make_better_choices_in_life_and_work.md)
