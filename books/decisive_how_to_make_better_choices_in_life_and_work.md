@@ -94,11 +94,43 @@ In no particular order.
 
     > “Go and see what’s happening,” he told one. “See the end product of what we are doing. Talk to people; get the wind in your nose.” ~President Franklin D. Roosevelt  
 
-- [Ooch](https://en.wiktionary.org/wiki/ooch): In this context "To move or slide a small amount; scoot; scooch."  
+- [Ooch](https://en.wiktionary.org/wiki/ooch): In this context "To move or slide a small amount; scoot; scooch." Try out small things. The same concept is in [BE 2.0 by Jim Collins and Bill Lazier](./be_20.md) where they talk about hou you should Fire bullets then cannon balls.  Be warned that small steps are a way to Reality-Test Your Assumptions.  It can be over done and be a cop out at times.  You need to fire bullets THEN cannon balls.  Not fire just bullets.
+    > TO OOCH IS TO ask, Why predict something we can test? Why guess when we can know?
 
 #### Attain Distance Before Deciding
 
+- Try the 10/10/10 rule.  How will I fell about this choice in 10 minutes, 10 days and 10 years from now?
+    > 10/10/10 helps to level the emotional playing field. What we’re feeling now is intense and sharp, while the future feels fuzzier. That discrepancy gives the present too much power, because our present emotions are always in the spotlight.
+- Be aware of mere exposure and loss aversion. They tend to sneak in when we are too close or act to fast.
+- A simple question but it helps shift your thinking and gives you some distance.
+- Gain distance by asking an outside perspective question:
+  - What would I tell my best friend to do in this situation?
+  - What would our successors do?
+- Honor Your Core Priorities. First you have to know what they are. Then you can use them to gain perspective and distance.
+- Ask what you would Stop Doing.  Create a Stop Doing list.
+
 #### Prepare to Be Wrong
+
+- Use Penstock Bookending.  The lower book end is a real world worst case, The High end is a real world best case.  Then find the sweet spot between the two bookends.
+    >Fighting overconfidence means we’ve got to treat the future as a spectrum, not a point.
+    >The future is not a “point”—a single scenario that we must predict. It is a range. We should bookend the future, considering a range of outcomes from very bad to very good.
+- Use prospective hindsight.  Don't ask how might you predict the future, Instead ask Imagine that in the future X has happened. What would cause that?
+- Use a premortem.
+    >A premortem, by contrast, imagines the future “death” of a project and asks, “What killed it?”
+- Run a Preparade.
+    >A preparade asks us to consider success: Let’s say it’s a year from now and our decision has been a wild success. It’s so great that there’s going to be a parade in our honor. Given that future, how do we ensure that we’re ready for it?
+- Consider a safety factor to compensate for overconfidence
+    >To prepare for what can’t be foreseen, we can use a “safety factor.”
+Heath, Chip; Heath, Dan. Decisive (p. 243). Crown. Kindle Edition. 
+- Run a Realistic job preview
+    >It’s easier to cope with setbacks when we’re mentally prepared for them.
+- Set a TripWire
+
+
+
+
+
+
 
 ## Quotes
 
@@ -122,6 +154,9 @@ In no particular order.
 
 > When we zoom out, we take the outside view, learning from the experiences of others who have made choices like the one we’re facing. When we zoom in, we take a close-up of the situation, looking for “color” that could inform our decision. Either strategy is helpful, and either one will add insight in a way that conference-room pontificating rarely will. When possible, we should do both[...] Zooming out and zooming in gives us a more realistic perspective on our choices. We downplay the overly optimistic pictures we tend to paint inside our minds and instead redirect our attention to the outside world, viewing it in wide-angle and then in close-up.
 
+> Short-term emotion, which can be an unreliable adviser. When people share the worst decisions they’ve made in life, they are often recalling choices made in the grip of visceral emotion: anger, lust, anxiety, greed. Our lives would be very different if we had a dozen “undo” buttons to use in the aftermath of these choices.
+
+Heath, Chip; Heath, Dan. Decisive (p. 180). Crown. Kindle Edition. 
 
 Heath, Chip; Heath, Dan. Decisive. Crown. Kindle Edition.
 
