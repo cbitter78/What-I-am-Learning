@@ -67,9 +67,31 @@ In no particular order.
 - Use or create playlits that help you expand your focus.
 
 #### Reality-Test Your Assumptions
-- Consider the Opposite
-- Decenting views
+- Consider the opposite.  This shows up as being curious. Some say its the rule of assuming positive intent.  I think it can show up in many differnt ways.  An example is the Vanishing Options Test.
+- Make a deliberate mistake.  Take what you think you know to be true and test it.  If you think if you dont do X or Y will happen.  Do a little X and see if Y really happens.   Test your assumptions.  I hear that "These are not assumptions they are facts". ok.. Step back, be honest and ask your self how do you know?  Has the context changed?  If they are facts then I can test them? 
+- Decenting views.  Be "Disagreeable" I mean, make it easy for people to disagree with you.  The outcome of this is to find infromation you would not discover in agreement. 
+
     > CEO and chairman of General Motors, once interrupted a committee meeting with a question: “Gentlemen, I take it we are all in complete agreement on the decision here?” All the committee members nodded. “Then,” Sloan said, “I propose we postpone further discussion of this matter until our next meeting to give ourselves time to develop disagreement and perhaps gain some understanding of what this decision is about.”
+    - What would have to be true? Test.  For the thing you dont what, what would have to be true for us to want it?
+    - In stall tripwires.  If X happens then what?  or When Why happes we should re-vist this? 
+
+- Ask detailed questions that provoke thought.  A playlist is useful here.  Be careful where there is a power dynamic.  In that case you will want to ask open ended questions.  A question is not a hammer or a single tool.  Learn to ask the right question at the right time. 
+    > Asking tough, disconfirming questions like these can dramatically improve the quality of information we collect
+
+    > How do you know whether to ask probing questions or open-ended ones? A good rule of thumb is to ask yourself, “What’s the most likely way I could fail to get the right information in this situation?” Generally, it will be obvious what the answer is: If you’re buying a used car, you’re most likely to fail by not discovering a flaw of the vehicle, or if you’re a vice president seeking feedback from factory workers, you’re most likely to fail by not uncovering what they really think. You can tailor your questions accordingly—more aggressive in the used-car negotiations and more open-ended with the factory worker.
+    
+    Be on the look out for weak, comforming questions.  "Is the [insert dish on any restaurant menu] good?"  This is a weak comforming question.  What do you think the server will say?  Instead, "If you had worked a 12 hour shift with no breaks and your boss told you to order anything, would you pick X or somthing else?  Why?"
+
+    Read [Julia Minson, Nicole E. Ruedy, and Maurice E. Schweitzer (2012) ,"There Is Such a Thing As a Stupid Question: Question Disclosure in Strategic Communication", in NA - Advances in Consumer Research Volume 40, eds. Zeynep Gürhan-Canli, Cele Otnes, and Rui (Juliet) Zhu, Duluth, MN : Association for Consumer Research, Pages: 271-275.](https://www.acrwebsite.org/volumes/1012889/volumes/v40/NA-40)
+
+- Zoom in and Zoom Out.  Take your internal perspective THEN, externaly ask an experat, find and look at data, base rates, others experance.  THEN add context and color.  Check that with your internal view.  It is critical to be honest with your self.
+    - When working with experts aks them about the past and presetnt.  Experts are not good at predicting the future.  Dont aks any predictive questions. 
+        >Go find an expert—someone more experienced than you. Just keep them talking about the past and the present, not the future.
+- Go to the [Gemba](https://en.wikipedia.org/wiki/Gemba).  Go to the place and see the thing.  Go experance it for your self.  This practice add color and texture to your data.  Listen to experts, look at the data, conduct experments AND! go see and touch, experance. 
+     
+    > “Go and see what’s happening,” he told one. “See the end product of what we are doing. Talk to people; get the wind in your nose.” ~President Franklin D. Roosevelt  
+
+- [Ooch](https://en.wiktionary.org/wiki/ooch): In this context "To move or slide a small amount; scoot; scooch."  
 
 #### Attain Distance Before Deciding
 
@@ -93,6 +115,13 @@ In no particular order.
 > WHEN LIFE OFFERS US a “this or that” choice, we should have the gall to ask whether the right answer might be “both.”
 
 > Warren Buffett said, “In the past, I’ve observed that many acquisition-hungry managers were apparently mesmerized by their childhood reading of the story about the frog-kissing princess. Remembering her success, they pay dearly for the right to kiss corporate toads, expecting wondrous transfigurations.” Unfortunately, said Buffett, “We’ve observed many kisses but very few miracles.”
+
+> Isn’t that dehumanizing somehow? Overly analytical? The advice to trust the numbers isn’t motivated by geekery; it’s motivated by humility. We can’t lose sight of what the numbers represent: A lot of people like us—people full of passion for their opportunities—spent their time trying something very similar to what we’re contemplating. To ignore their experience isn’t brave and romantic—“I’m not going to let some analysis stand in the way of doing what I believe.” Rather, it’s egotistical. It’s saying, We set ourselves apart from everyone else. We’re different. We’re better.
+
+> When we zoom out, we take the outside view, learning from the experiences of others who have made choices like the one we’re facing. When we zoom in, we take a close-up of the situation, looking for “color” that could inform our decision. Either strategy is helpful, and either one will add insight in a way that conference-room pontificating rarely will. When possible, we should do both[...] Zooming out and zooming in gives us a more realistic perspective on our choices. We downplay the overly optimistic pictures we tend to paint inside our minds and instead redirect our attention to the outside world, viewing it in wide-angle and then in close-up.
+
+
+
 
 
 Heath, Chip; Heath, Dan. Decisive. Crown. Kindle Edition. 
