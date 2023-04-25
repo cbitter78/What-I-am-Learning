@@ -71,8 +71,6 @@ In no particular order.
 - Decenting views
     > CEO and chairman of General Motors, once interrupted a committee meeting with a question: “Gentlemen, I take it we are all in complete agreement on the decision here?” All the committee members nodded. “Then,” Sloan said, “I propose we postpone further discussion of this matter until our next meeting to give ourselves time to develop disagreement and perhaps gain some understanding of what this decision is about.”
 
-Heath, Chip; Heath, Dan. Decisive (pp. 107-108). Crown. Kindle Edition. 
-
 #### Attain Distance Before Deciding
 
 #### Prepare to Be Wrong
