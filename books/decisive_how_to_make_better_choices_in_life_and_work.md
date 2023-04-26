@@ -4,6 +4,8 @@
 <img src="https://m.media-amazon.com/images/I/41MxlLxhpKL.jpg" alt="Decisive: How to Make Better Choices in Life and Work" style="height:180px;1px solid black"/>
 </a>
 
+> Being decisive is itself a choice. Decisiveness is a way of behaving, not an inherited trait. It allows us to make brave and confident choices, not because we know we’ll be right but because it’s better to try and fail than to delay and regret. Our decisions will never be perfect, but they can be better. Bolder. Wiser. The right process can steer us toward the right choice. And the right choice, at the right moment, can make all the difference.
+
 ## Notes
 
 ### Four Villains of Decision Making
@@ -124,12 +126,27 @@ In no particular order.
 Heath, Chip; Heath, Dan. Decisive (p. 243). Crown. Kindle Edition. 
 - Run a Realistic job preview
     >It’s easier to cope with setbacks when we’re mentally prepared for them.
-- Set a TripWire
+- Set a TripWire.  If X happens then we should reconsider.  I have tried this and it has been extremely helpful!  You can combine this with a deadline.  By X date if we do not yet have Y we know something is wrong. You can also use a partition (some boundary around the choice) as a tripwire.   If we spend more than 2000.00 than we will X.   If we see Y behaver then we know X.
+
+    > In another study, participants gambled less when their funds were spread across 10 envelopes, rather than crammed into a single envelope.
+
+    > ALL THIS WORRYING ABOUT traps and contingencies may make tripwires sound overly cautious—the bicycle helmet of decision making. But actually we want to argue the opposite, that tripwires encourage risk taking by letting us carve out a “safe space” for experimentation.
 
 
 
+## Procedural Justice
 
 
+> “procedural justice”—i.e., the procedures used to make a decision were just—as distinct from “distributive justice,” which is concerned with whether the spoils of a decision were divvied up fairly. An extensive body of research confirms that procedural justice is critical in explaining how people feel about a decision. It’s not just the outcome that matters; it’s the process. 
+
+1. Give people a chance to be heard.  And LISTEN!  Really Listen.  Level 3 listening.  This part matters!
+1. Use good data that people agree on
+1. Invite challenge and feedback
+1. Avoid Bias by using the WRAP process and show how you are controlling for Bias.  Name it. Talk about it.
+1. Explain why decision was made
+1. Be honest about risks and trip wires.
+
+> “sometimes the best way to defend a decision is to point out its flaws.”
 
 
 ## Quotes
@@ -156,7 +173,11 @@ Heath, Chip; Heath, Dan. Decisive (p. 243). Crown. Kindle Edition.
 
 > Short-term emotion, which can be an unreliable adviser. When people share the worst decisions they’ve made in life, they are often recalling choices made in the grip of visceral emotion: anger, lust, anxiety, greed. Our lives would be very different if we had a dozen “undo” buttons to use in the aftermath of these choices.
 
-Heath, Chip; Heath, Dan. Decisive (p. 180). Crown. Kindle Edition. 
+> Some deadlines are backed by the force of law, such as the IRS’s April 15 deadline for submitting taxes, and it’s no shock that these deadlines are effective. What’s stranger is the effectiveness of made-up deadlines in getting us to do what would have been good for us anyway.
+
+> So where do you want to spend your time? Bargaining up front, or fighting foot draggers later? Bargaining yields buy-in.
+
+> A trustworthy process can help us navigate even the thorniest decisions.
 
 Heath, Chip; Heath, Dan. Decisive. Crown. Kindle Edition.
 
