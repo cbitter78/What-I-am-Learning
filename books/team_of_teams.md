@@ -6,6 +6,10 @@ New Rules of Engagement for a Complex World
 <img src="https://m.media-amazon.com/images/I/51-DGYCqHYL.jpg" alt="Team of Teams: New Rules of Engagement for a Complex World" style="height:180px;1px solid black"/>
 </a>
 
+## Related
+
+- [The IDEALCAST: The Principals and Practices behind Team of Teams Part 1](https://itrevolution.com/podcast/the-idealcast-episode-11/): "Gene Kim sits down with Team of Team’s coauthor and CEO of CrossLead, David Silverman, and Director of Research and Development at CrossLead, Jessica Reif, for a two-part interview.".  This is not a substitute for reading this book but it gives you a good idea of what you can expect in this book.
+
 ## Notes
 
 When I started this book, I was not sure how fighting al qaeda in Iraq would teach me about technology and leadership. I was surprised as I continued to read this book. This book is about finding a way to work in a Complex world. Complex systems are everywhere and are increasing at breakneck speed. I found this book to be an excellent story on how others have found ways to deal with this unique environment and still retain the useful lessons and practices that we have learned in the past when dealing with I complicated systems.
@@ -39,7 +43,7 @@ Nelson's forces prevailed.  19 of the French ships were captured.  Nelson did no
 You can read [Seize the Fire: Heroism, Duty, and Nelson's Battle of Trafalgar](https://www.amazon.com/Seize-Fire-Heroism-Nelsons-Trafalgar/dp/0060753625) if you want to know more.
 
 
-### Referance
+### Reference
 
 - [Warren Weaver 1948 Paper Science And Complexity](https://fernandonogueiracosta.files.wordpress.com/2015/08/warren-weaver-science-and-complexity-1948.pdf)
 
@@ -72,11 +76,3 @@ personal honesty, open-mindedness, focused vision, and love of the truth. These
 are solid virtues, but science has no exclusive lien on them. The poet has these
 virtues also, and often turns them to higher uses." ~Warren Weaver, Science And Complexity
 
-
-
-### Grep Words
-
-leadership
-team building
-vishion
-read_once_a_year
