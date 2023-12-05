@@ -9,6 +9,17 @@ How to Change Things When Change Is Hard
 I enjoyed this book. It gave me lots to think about when trying to effect change both on a small scale.  I think the framework it teaches is not foolproof but it does provide a general pattern on how to effect change.
 If you are trying to effect a change I suggest this book.
 
+Give these videos a watch to get an overview of the book.  You still need to read the book. ;)
+
+<a href="https://www.youtube.com/watch?v=-XYxudAQk5w" target="_blank">
+ <img src="https://i.ytimg.com/vi/-XYxudAQk5w/hqdefault.jpg" alt="git for dummies" height="180" border="10" />
+</a>
+
+
+<a href="https://www.youtube.com/watch?v=JhBzxy7CneM" target="_blank">
+ <img src="https://i.ytimg.com/vi/JhBzxy7CneM/maxresdefault.jpg" alt="git for dummies" height="180" border="10" />
+</a>
+
 
 ## Notes
 
