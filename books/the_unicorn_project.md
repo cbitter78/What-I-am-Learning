@@ -31,6 +31,23 @@ If you want a good interview with Gene watch [Gene Kim Author of The Unicorn Pro
 
 The 3 horizons model is a growth strategy framework by McKinsey that you can use to think about the future of your company. It can help you manage growth in a coordinated way.  Read more [here](https://www.boardofinnovation.com/blog/what-is-the-3-horizons-model-how-can-you-use-it/)
 
+
+## Distinguished Engineer
+
+Below is a quote from the book of a Distinguished Engineer job description.  I thought this was Interesting
+
+- Sponsor and cultivate a culture of technical excellence through the following activities:
+  - Grow our next generation of technical leaders through mentoring, sponsorship, and formal training programs.
+  - Establish and participate in cross-team guilds focused on technology areas like security, performance, site reliability.
+  - Guide the creation of a governance and architecture review function that can evolve and ensure company obligations are fulfilled for years to come.
+  - Review important issues that management is concerned about.
+  - This function will include risk and assurance, information and e-records, and architecture.
+  - Provide technical assistance to any team seeking feedback on their approach.
+  - Develop measures to keep governance capabilities and their staff hands-on and relevant.
+- Be the company spokesperson to technical audiences to advance the company brand and facilitate recruiting, competing with the top technology companies for talent. Oversee the architecture, design, and implementation
+
+Kim, Gene. The Unicorn Project (Kindle Locations 5947-5956). IT Revolution Press. Kindle Edition. 
+
 ## Quotes
 
 > agility is never free.

@@ -1,2 +1,9 @@
+# The DevOps Handbook
 
-[The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/ref=pd_lutyp_rtpb_5_2/144-8503416-3895158?_encoding=UTF8)
+How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+
+<a href="https://www.amazon.com/DevOps-Handbook-Second-World-Class-Organizations/dp/B09L56CT6N">
+<img src="https://m.media-amazon.com/images/I/51-LRjBPDxL.jpg" alt="The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" style="height:180px;1px solid black"/>
+</a>
+
+

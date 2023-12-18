@@ -2,18 +2,18 @@
 
 ## Why?
 
-In 2017 I found my self transforming from a Developer where I would instruct a computer to do what 
+In 2017 I found my self transforming from a Developer where I would instruct a computer to do what
 I wanted, into working with and motivating people. I started to see the power of Teams and how a team
 can be greater then the sum of its parts. I then began to re-think my craft.  I no longer needed to
 be a awesome developer, though I still love it, and am not too bad. Rather I need to shift my thinking
 and actions to help others become amazing Developers, DevOps Practitioners and Leaders.
 
-This repo will hold a collection of media I have head, watched or listen to. 
-I will include my notes and thoughts.  This repo is for people who want to **learn their craft** and 
+This repo will hold a collection of media I have head, watched or listen to.
+I will include my notes and thoughts.  This repo is for people who want to **learn their craft** and
 are interested in my perspective. I want to produce a file for each book / site / video / audio book
 I find valuable to me and share it here. I have no intention of spoiling any books, or stomping on any copyrights.
 
-**This reop is **NOT** a source of "cliffs notes" you can read through to become yet 
+**This reop is **NOT** a source of "cliffs notes" you can read through to become yet
 another __blog expert!__  If this is what you are after, go elsewhere.**
 
 
@@ -39,8 +39,8 @@ or to use the buzz words. I just want a better way.
 - [The Phoenix Project](books/the_phoenix_project.md)
 - [The DevOps Handbook](books/the_devops_handbook.md)
 - [The Unicorn Project](books/the_unicorn_project.md)
+- [Accelerate](books/accelerate.md)
 - [This American Life Pod Cast #561 The NUMMI Story](listen/nummi.md)
-
 
 ## Development
 
