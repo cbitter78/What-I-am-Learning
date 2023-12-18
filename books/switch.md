@@ -27,8 +27,7 @@ Change can be like an Elephant it's hard to get them to move, and to move in the
 
 1. Direct the rider
 1. Motivate the Elephant
-1. Sape the path.
-
+1. Shape the path.
 
 Keep in mind. Large change is hard.  Shrink the change, keep it simple. Build on small simple things to effect large change.
 

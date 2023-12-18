@@ -1,6 +1,7 @@
 # Beyond the Goal
 
 Theory of Constraints
+
 <a href="https://www.amazon.com/Beyond-Goal-Eliyahu-M-Goldratt-audiobook/dp/B000ELJ9NO">
 <img src="https://m.media-amazon.com/images/I/51uD0oWhcUL.jpg" alt="Beyond the Goal: Theory of Constraints" style="height:180px;1px solid black"/>
 </a>

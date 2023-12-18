@@ -132,10 +132,7 @@ Heath, Chip; Heath, Dan. Decisive (p. 243). Crown. Kindle Edition.
 
     > ALL THIS WORRYING ABOUT traps and contingencies may make tripwires sound overly cautious—the bicycle helmet of decision making. But actually we want to argue the opposite, that tripwires encourage risk taking by letting us carve out a “safe space” for experimentation.
 
-
-
 ## Procedural Justice
-
 
 > “procedural justice”—i.e., the procedures used to make a decision were just—as distinct from “distributive justice,” which is concerned with whether the spoils of a decision were divvied up fairly. An extensive body of research confirms that procedural justice is critical in explaining how people feel about a decision. It’s not just the outcome that matters; it’s the process. 
 
@@ -147,7 +144,6 @@ Heath, Chip; Heath, Dan. Decisive (p. 243). Crown. Kindle Edition.
 1. Be honest about risks and trip wires.
 
 > “sometimes the best way to defend a decision is to point out its flaws.”
-
 
 ## Quotes
 
@@ -184,4 +180,3 @@ Heath, Chip; Heath, Dan. Decisive. Crown. Kindle Edition.
 ## Related Books
 
 - [Switch](./switch.md)
-- [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG)

@@ -32,7 +32,7 @@ Goals are good, but they just inform how you should design the system to achieve
 
 #### Identity
 
-As my dad used to say, "You are what you think" When you see yourself as a person that does X or Y you then support that habit. Identity is a collection of the behaviors your exabit. If you want to change your behaviors, or habits then change your identity then the behaviors will follow.
+As my dad used to say, "You are what you think" When you see yourself as a person that does X or Y you then support that habit. Identity is a collection of the behaviors your exhibit. If you want to change your behaviors, or habits then change your identity then the behaviors will follow.
 
 > "The ultimate form of intrinsic motivation is when a habit becomes part of your identity. It’s one thing to say I’m the type of person who wants this. It’s something very different to say I’m the type of person who is this."
 
@@ -120,7 +120,3 @@ As my dad used to say, "You are what you think" When you see yourself as a perso
 
 Clear, James. Atomic Habits. Penguin Publishing Group. Kindle Edition. 
 
-### Grep Words
-
-behavor
-read_once_a_year

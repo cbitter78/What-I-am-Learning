@@ -1,15 +1,17 @@
 # The Unicorn Project
 
+A Novel about Developers, Digital Disruption, and Thriving in the Age of Data
+
+<a href="https://www.amazon.com/gp/product/B07QT9QR41">
+<img src="https://m.media-amazon.com/images/I/51jkkeU8HvL._SY445_SX342_.jpg" alt="The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data" style="height:180px;1px solid black"/>
+</a>
+
 This is the second in a series of DevOps books from [Gene Kim](https://www.amazon.com/Gene-Kim/e/B00AERCJ9E?ref=dbs_t_r_fta_b00aercj9e).
-The first is [The Phoenix Project](the_phonenix_project.md) which is set in a company, Parts Unlimited.
+The first is [The Phoenix Project](./the_phoenix_project.md) which is set in a company, Parts Unlimited.
 This book continues the Parts Unlimited story in a different and updated fashion.  Though in the preface it says that
 reading The Phoenix Project is not required I think its worth doing.
 
 Both of these books are roughly based on [The Goal](the_goal.md) which is also a grate read.
-
-## Amazon Link
-
-[The Unicorn Project](https://www.amazon.com/gp/product/B07QT9QR41/ref=dbs_a_def_rwt_bibl_vppi_i2)
 
 ## My thoughts
 
@@ -17,7 +19,11 @@ Once again it seems that Gene has total visibility into where I work.   I see th
 This means that we in IT are not special.  We produce product.  We suffer from the same mistakes over and over.
 By understanding these problems we can avoid them
 
-If you want a good interview with Gene watch [Gene Kim Author of The Unicorn Project on DevOps and Business Innovation](https://www.youtube.com/watch?v=__7d3rnPNqY).
+If you want a good interview with Gene watch this
+
+<a href="https://www.youtube.com/watch?v=__7d3rnPNqY" target="_blank">
+ <img src="https://lh3.googleusercontent.com/DMPqTbcN-R_kPwzF0qg9zZH8UPLtVBoqrDQ_63zhmIq5NUBrllM5Xkj2h7Bi0X_KPzJ6_sTvRFIXWB2HIEeFd2EtnRyUbs0uWTPey3MYtSICaibNBfcA=v0-s1050" alt="Gene Kim Author of The Unicorn Project on DevOps and Business Innovation" height="180" border="10" />
+</a>
 
 ## Notes
 
@@ -77,10 +83,5 @@ Kim, Gene. The Unicorn Project (Kindle Locations 5947-5956). IT Revolution Press
 > “Innovation and learning occur at the edges, not the core. Problems must be solved on the front-lines, where daily work is performed by the world’s foremost experts who confront those problems most often.
 
 > It’s about excellence, the ruthless pursuit of perfection, the urgency to achieve the mission, a constant dissatisfaction with the status quo, and a zeal for helping those the organization serves.
-
-
-### Citation
-
-All quotes within this document come directly from: 
 
 Kim, Gene. The Unicorn Project IT Revolution Press. Kindle Edition. 
