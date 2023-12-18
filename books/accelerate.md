@@ -39,4 +39,6 @@ Read more at [Rugged Software](https://ruggedsoftware.org/)
 
 > A successful measure of performance should have two key characteristics. First, it should focus on a global outcome to ensure teams aren’t pitted against each other. The classic example is rewarding developers for throughput and operations for stability: this is a key contributor to the “wall of confusion” in which development throws poor quality code over the wall to operations, and operations puts in place painful change management processes as a way to inhibit change. Second, our measure should focus on outcomes not output: it shouldn’t reward people for putting in large amounts of busywork that doesn’t actually help achieve organizational goals.
 
+> There are two parts to lead time: the time it takes to design and validate a product or feature, and the time to deliver the feature to customers.
+
 Forsgren PhD, Nicole; Humble, Jez; Kim, Gene. Accelerate . IT Revolution Press. Kindle Edition. 
