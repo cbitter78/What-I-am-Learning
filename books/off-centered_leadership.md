@@ -18,7 +18,7 @@ Love what you do.  Do what you love.
 
 It is NOT about money.  You can not ignore money but it should not be your main driver.
 
-Some structor enables creativity and freadom
+Some structure enables creativity and freedom
 
 Lean Start Up
 
