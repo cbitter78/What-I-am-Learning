@@ -32,11 +32,11 @@ The adage that adding staff to speed up a behind-schedule project “has no bett
 #### Horatio Nelson and the Battle of Trafalgar
 
 On October 21, 1805. Admiral Nelson faced off with the Franco-Spanish fleet.  He had 27 ships vs 33 ships. If he were to fail then England would fall.  He was outnumbered and outgunned.  Though he did not have more
-resources he had a team.  A team of captains where "Every captain was a Nelson".  He built a culture of empowerment and communication.  This was unorthodox at the time when most navy Admirals would oristrate the battle by signaling to their captains every move in the battle.  No captain was to act without orders from the commander.
+resources he had a team.  A team of captains where "Every captain was a Nelson".  He built a culture of empowerment and communication.  This was unorthodox at the time when most navy Admirals would orchestrate the battle by signaling to their captains every move in the battle.  No captain was to act without orders from the commander.
  
 Nelson knew this was not effective.  Commands were sent from ship to ship with flags and other signals.  Orders were lost and misunderstood in battle due to smoke and other conditions.   Nelson knew he could not command the battle.  Instead he gave his captains a complete understanding of the goal and empowered them.  “No captain can do very wrong if he places his ship alongside that of the enemy.”  He did not withhold information, rather he shared it.  Every captain knew the global context and what the desired outcome was.  He ensured that individual commanders should act on their own initiative once the mêlée had developed.  He allowed and, indeed, expected his subordinates to use their own initiative, at the same time reducing the fleet’s dependence on uncertain methods of communication” such as signaling.  This was called “the Nelson touch”.
  
-Nelson's forces prevailed.  19 of the French ships were captured.  Nelson did not lose a single ship.  Nelson was fatally shot about an hour into the battel.  He was below decks and died shortly after he heard word that they had won the battle.  His team achieved the goal without him commanding them.  He led them, prepared them, then they executed!
+Nelson's forces prevailed.  19 of the French ships were captured.  Nelson did not lose a single ship.  Nelson was fatally shot about an hour into the battle.  He was below decks and died shortly after he heard word that they had won the battle.  His team achieved the goal without him commanding them.  He led them, prepared them, then they executed!
 
 > At its heart, Nelson crafted an organizational culture that rewarded individual initiative and critical thinking, as opposed to simple execution of commands.
 

@@ -14,7 +14,7 @@ I really enjoyed this book.  Its obvious I was doing things backwards, to be fai
 
 ## Notes
 
-The Celery Test. Make sure to pay attion to this chapter. This was extreamly helpful to me ot understand how to colorbrate my why.
+The Celery Test. Make sure to pay attention to this chapter. This was extremely helpful to me ot understand how to corroborate my why.
 
 Its hard to explain Why when it Feels right.  Yes it is!
 

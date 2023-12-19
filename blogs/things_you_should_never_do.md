@@ -1,3 +1,2 @@
 Joel Spolsky wrote a blog on how software developers like to Brown Field or even Green Field.  Tare down software
-and start new.   This is a trap!  Give [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
-a read.   The argument is to consider working software is working.  There is value in that. 
+and start new.   This is a trap!  Give [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) a read.   The argument is to consider working software is working.  There is value in that.
