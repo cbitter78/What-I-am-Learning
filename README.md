@@ -97,3 +97,5 @@ Find me on [linkedin](https://www.linkedin.com/in/charles-bitter/), Send me a co
 ## License
 
 This repo is Licensed under [MIT](LICENSE).  Feel free to use my notes.
+
+

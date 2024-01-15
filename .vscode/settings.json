@@ -1,5 +1,11 @@
 {
     "makefile.extensionOutputFolder": "./.vscode",
+    "markdownlint.config": {
+        "default": true,
+        "ul-indent": { "indent": 4 },
+        "MD028": false,
+        "MD033": false,
+    },
     "cSpell.words": [
         "Asaro",
         "Brené",
