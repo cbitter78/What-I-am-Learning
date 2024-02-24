@@ -177,8 +177,53 @@ Not telling the future, not guessing or pulling an answer out of the air. It is 
 
 Accurate Enough, As you are more cretin then you can use more accurate units.  Not sure use months, easy estimate use days or hours.
 
+### Tools
 
-[...Reading]
+A tool is not a person and a person is not a tool.  A carpenter is not a saw and a saw is not a carpenter.  Skilled people choose tools and do so carefully.  
+
+
+#### Keep Knowledge in Plain Text
+
+> Human-readable forms of data, and self-describing data, will outlive all other forms of data and the applications that created them. Period.
+
+Just use plane text where ever you can.  Pick tools that let you do this.
+
+Have power tools and hand tools.  To me this means use a power tool like Visual Studios Code AND hand tools like VI.  You need to know both.  I also include sed, awk, and some basic python in my text toolbox.
+
+#### Shells
+
+The shell is one of the most powerful tools I have ever used.  Become an expert in the shell.  Pick one and know it well be be fluent in the most common.  Right now I operate on zsh but am happy in Bash or SH.
+
+Upgrade your shell by using profiles and aliases.
+
+Learn to operate in the Shell.  If you can't do it in shell you should ask why?  Then do it in the shell.
+
+#### Version Control
+
+[Learn git](https://github.com/cbitter78/learn_git) at the command line (YES EVEN WINDOWS USERS! COMMAND LINE!) and use it for everything!  Use it locally without github. Use it with github.  Use git for everything! If you keep [knowledge in plane text](#keep-knowledge-in-plain-text) then git ensures you keep that knowledge and ensure it is durable, and shareable.
+
+### Debuging
+
+Everyone has to do it.  I love the tips in this section of the book, I added a few of my own.
+
+- Don't Panic
+- Failing Test before Fixing Code
+- Read the damn error message
+- Read the damn error message
+- Read the damn error message
+- Read the damn error message
+- Read the damn error message
+- Use the Binary Chop method to find the issue
+- Use good logging, don't puke logs, but good logs and tracing
+- Try Rubber Ducking
+- Process of Elimination.  **Only change ONE THING AT A TIME**
+- Its not the system call.
+- Read the Damn Docs
+- Don't Assume it, Prove it!
+
+
+
+
 
 ## Quotes
 
