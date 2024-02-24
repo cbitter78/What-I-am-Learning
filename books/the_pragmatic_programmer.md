@@ -221,9 +221,41 @@ Everyone has to do it.  I love the tips in this section of the book, I added a f
 - Read the Damn Docs
 - Don't Assume it, Prove it!
 
+### Global Data
 
+Avoid it. If you cant then:
 
+>If It’s Important Enough to Be Global, Wrap It in an API
 
+You don't need to micro service your global data, though in some edge cases that might be the thing to do, however just reading in a raw file wont server you well.  Try wrapping all your global data in a class or struct and loading and checking it.  This way you abstract the data and the API for the data.  In the future if you did want to move the data input from a file to an HTTP call you could.
+
+### Pipelines
+
+First think in pipelines.  Think how you can reduce a problem one step at a time by piping the data from one step to another.  Each step ends up looking like a function.
+
+Warning this does not mean one line that contains pipelines. This is what I dislike about how people end up using powershell.  Rather this means pipeline the problem.  Feel free to use many lines.  There is NO COST AT ALL to use many line vs one line.  The compiler does not care.  Humans tend to understand things a bit better if you break up the logic.
+
+Again.  Think in pipelines!
+
+### State
+
+That is needful.  It is not bad, it is bad to hold state.  So
+
+>Don’t Hoard State; Pass It Around
+
+### Inheritance
+
+Pro-Tip. If you want polymorphism use a DAMN interface!  Avoid object inheritance.  Hell avoid objects.
+
+That said, You should know I have spent 15 years creating objects and objects models. I used to love them.  However, in many cases they do not deliver the flexibility that they promise.  In most cases they get in the the way forcing me to create objects that are really not needed just to keep the model valid.  I first found a crack in the object oriented philosophy when I found duck typing and thought "wow! its so nice when I kinda ignore this object thing".  Then I found golang and I really knew that OO was not the best.
+
+We still want polymorphism.  Object inherence is not a great way to get it.
+
+### Configuration
+
+Make your configuration an API.  See [Global Data](#global-data).  And get on board with [12 factor](https://12factor.net/).
+
+> Don’t Write Dodo-Code Without external configuration, your code is not as adaptable or flexible as it could be. Is this a bad thing? Well, out here in the real world, species that don’t adapt die. The dodo didn’t adapt to the presence of humans and their livestock on the island of Mauritius, and quickly became extinct. It was the first documented extinction of a species at the hand of man. Don’t let your project (or your career) go the way of the dodo.
 
 ## Quotes
 
