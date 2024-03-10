@@ -181,7 +181,6 @@ Accurate Enough, As you are more cretin then you can use more accurate units.  N
 
 A tool is not a person and a person is not a tool.  A carpenter is not a saw and a saw is not a carpenter.  Skilled people choose tools and do so carefully.  
 
-
 #### Keep Knowledge in Plain Text
 
 > Human-readable forms of data, and self-describing data, will outlive all other forms of data and the applications that created them. Period.
@@ -257,6 +256,76 @@ Make your configuration an API.  See [Global Data](#global-data).  And get on bo
 
 > Don’t Write Dodo-Code Without external configuration, your code is not as adaptable or flexible as it could be. Is this a bad thing? Well, out here in the real world, species that don’t adapt die. The dodo didn’t adapt to the presence of humans and their livestock on the island of Mauritius, and quickly became extinct. It was the first documented extinction of a species at the hand of man. Don’t let your project (or your career) go the way of the dodo.
 
+### Concurrency
+
+It is everywhere.  Get good at it.
+
+> It’s almost impossible to write code in a decent-sized system that doesn’t have concurrent aspects to it. They may be explicit, or they may be buried inside a library. Concurrency is a requirement if you want your application to be able to deal with the real world, where things are asynchronous: users are interacting, data is being fetched, external services are being called, all at the same time. If you force this process to be serial, with one thing happening, then the next, and so on, your system feels sluggish and you’re probably not taking full advantage of the power of the hardware on which it runs.
+
+It is not Parallelism!!
+
+> Concurrency is when the execution of two or more pieces of code act as if they run at the same time. Parallelism is when they do run at the same time. To have concurrency, you need to run code in an environment that can switch execution between different parts of your code when it is running. This is often implemented using things such as fibers, threads, and processes. To have parallelism, you need hardware that can do two things at once. This might be multiple cores in a CPU, multiple CPUs in a computer, or multiple computers connected together.
+
+Also watch [Concurrency is not Parallelism by Rob Pike](https://youtu.be/oV9rvDllKEg?si=2j2EKjpjhcQay7GW)
+
+It is not hard to do, if you follow the rules.
+
+- "Shared state is incorrect state"
+- Good Contracts
+- Easy to Change Code and all the things that go with it
+
+If you already do these things courant code does not require much effort.  You can use the Actor model to find when you should use concurrency.
+
+Finally, USE CHANNELS! (in golang) or the equivalent.  And before you say Python, Ruby, etc.. does not have channels.  It does.  STDIN, STDOUT.  They have been around for a very long time.
+
+> TIP 58: Random Failures Are Often Concurrency Issues
+
+> TIP 60: Use Blackboards to Coordinate Workflow
+
+### While you are coding
+
+Do not expect a plan that does not change.
+
+Code to show that code then be told it is not what "they" wanted.  Expect this at least 3 times.  Can happy much more.  This is normal.  No code is throw away code.  You had to write version 2 so we could know we needed version 3.  It served a purpose even if you CTRL+A DEL all of it.
+
+Think critically while you code.
+
+Name with care.  It is hard.  Think about the code telling a story. Avoid i,x,z as names.  The compiler does not go any faster if the valuable names are long or short.
+
+NEVER! EVER! Program by Coincidence!  Know exactly how things work not that they do.
+
+### Speed
+
+Not all code must be preformat or fast.  If you are writing a con job that runs for 5 minutes but if you optimize it will be 1 minute.  STOP.  You don't need to fix it.
+
+Avoid Nested Loops.  This includes putting a loop in a function and calling that function from a loop.  Write more lines of code.  I find that clean, or sparse code tends to hide loops that end up in loops.
+
+All you need to know about Big O notation is in Chapter 7 in Figure 3. Runtimes of various algorithms.
+
+Look up the Big O for what you are using. [This Chart Helps](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms)
+
+Watch [Sorting Algorithms Explained Visually](https://www.youtube.com/watch?v=RfXt_qHDEPw)
+
+Read all of Chapter 7 if you want preformat code.
+
+### Before the project
+
+Planning what you will do IS AGILE!  No planning at all is reckless.  How much is correct.  It depends.
+
+> TIP 75: No One Knows Exactly What They Want
+
+Plan not to know exactly what is wanted but do enough planning to allow for that.  Do not be reckless.  Be smart.
+
+>The Agile Manifesto begins with “Individuals and interactions over processes and tools,” virtually all “agile” projects begin with an ironic discussion of which process and which tools they’ll use. But no matter how well thought out it is, and regardless of which “best practices” it includes, no method can replace thinking. You don’t need any particular process or tool, what you do need
+
+No were in the Agile Manifesto does it state Spike, Sprint, Iteration, or Backlog.  Learn to be Agile per the Manifesto and put less stock in processes that pretend to be Agile.
+
+Read chapter 8 your self.
+
+### Be Proud
+
+Take care with your craft.  Be proud of your work enough to want to sign your name to it.
+
 ## Quotes
 
 > When you find yourself saying, “I don’t know,” be sure to follow it up with “—but I’ll find out.” It’s a great way to admit what you don’t know, but then take responsibility like a pro.
@@ -267,6 +336,4 @@ Make your configuration an API.  See [Global Data](#global-data).  And get on bo
 
 > Don’t rely on the properties of things you can’t control.
 
-
-Thomas, David; Hunt, Andrew. Pragmatic Programmer, The: Your journey to mastery, 20th Anniversary Edition (p. 98). Pearson Education. Kindle Edition. 
-Thomas, David; Hunt, Andrew. Pragmatic Programmer, The: Your journey to mastery, 20th Anniversary Edition (p. 40). Pearson Education. Kindle Edition. 
+Thomas, David; Hunt, Andrew. Pragmatic Programmer, The: Your journey to mastery, 20th Anniversary Edition (p. 40). Pearson Education. Kindle Edition.
