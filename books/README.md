@@ -17,7 +17,7 @@ Maybe now that I have this repo I can just include a QR Code back to this repo?
 
 ## Currently Reading
 
-- [The Pragmatic Programmer](./the_pragmatic_programmer.md)
+- [Bull Shit Jobs](./bull_shit_jobs.md)
 
 ## My reading list
 
