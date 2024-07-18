@@ -50,6 +50,8 @@ or to use the buzz words. I just want a better way.
 Books, Blogs and podcasts all developers should consume.  You will notice that lots of this thinking is OLD!
 that is because great software development is not a new idea.
 
+- Write [12 Factor](https://12factor.net/codebase) apps.  There are years of esperance behind 12 factor.  Do not just skim it.  Read it, understand it, live it.  Talk about it. Teach it.
+- Read the [Pragmatic Programmer](./books/the_pragmatic_programmer.md).  This book is a must read for all developers.  It is not a book about a language, or a framework.  It is a book about being a developer.
 - [Things You Should Never Do](blogs/things_you_should_never_do.md)
 
 ## Project Management
